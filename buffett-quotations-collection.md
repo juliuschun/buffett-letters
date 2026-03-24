@@ -3,7 +3,7 @@
 **Extracted from Berkshire Hathaway Shareholder Letters, 1977--2024**
 
 *A comprehensive collection of Warren Buffett's most memorable observations on business,
-investing, and life -- distilled from 48 years of annual letters to Berkshire Hathaway shareholders.*
+investing, and life -- distilled from 49 years of annual letters to Berkshire Hathaway shareholders.*
 
 ---
 

@@ -2,9 +2,9 @@
 
 > *"The quality of capital allocation determines a company's destiny."* — [2010]
 
-Of all the lessons Warren Buffett has delivered across 48 years of shareholder letters, none is more central than this: the CEO's most important job is not operations, not strategy, not motivation — it is deciding what to do with the money. Every dollar a business earns must be deployed somewhere, and the cumulative wisdom or folly of those deployment decisions determines whether shareholders grow rich or poor.
+Of all the lessons Warren Buffett has delivered across 49 years of shareholder letters, none is more central than this: the CEO's most important job is not operations, not strategy, not motivation — it is deciding what to do with the money. Every dollar a business earns must be deployed somewhere, and the cumulative wisdom or folly of those deployment decisions determines whether shareholders grow rich or poor.
 
-This chapter traces Buffett's complete thinking on capital allocation — from the foundational metrics that expose whether management is creating or destroying value, through the taxonomy of business types that determines capital needs, to the specific mechanisms (retention, repurchases, dividends, acquisitions) through which capital finds its way to productive or wasteful ends. It draws on every relevant passage from the 1977–2024 shareholder letters.
+This chapter traces Buffett's complete thinking on capital allocation — from the foundational metrics that expose whether management is creating or destroying value, through the taxonomy of business types that determines capital needs, to the specific mechanisms (retention, repurchases, dividends, acquisitions) through which capital finds its way to productive or wasteful ends. It draws on every relevant passage from the 1977–2025 shareholder letters.
 
 ---
 
@@ -444,13 +444,13 @@ By 2011, See's had a carrying value below zero — Berkshire had already extract
 
 The gold standard of growth without capital has a direct corollary for capital allocation: **the best capital allocation is when you don't have to allocate capital at all.** A business that grows earnings without requiring reinvestment automatically solves the CEO's hardest problem. The cash flows out of the business and into the CEO's hands, ready to be deployed wherever returns are highest — whether that means buying another business, repurchasing stock, or simply holding cash for the next crisis.
 
-This is why Buffett spent 48 years searching for businesses like See's, and why he called the combination of pricing power and low capital requirements "the ultimate combination." In a world where most CEOs struggle to deploy capital wisely, the CEO who owns businesses that don't need capital has already won.
+This is why Buffett spent 49 years searching for businesses like See's, and why he called the combination of pricing power and low capital requirements "the ultimate combination." In a world where most CEOs struggle to deploy capital wisely, the CEO who owns businesses that don't need capital has already won.
 
 ---
 
 ## Summary: The Capital Allocation Decision Tree
 
-Across 48 years of letters, Buffett's capital allocation framework can be distilled into a decision tree:
+Across 49 years of letters, Buffett's capital allocation framework can be distilled into a decision tree:
 
 1. **Measure honestly.** Use ROE, not EPS. Use owner earnings, not EBITDA. Apply the $1 test to retained earnings.
 

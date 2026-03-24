@@ -1,4 +1,4 @@
-# Warren Buffett's Business Wisdom: A Thematic Synthesis of 48 Years of Shareholder Letters (1977-2024)
+# Warren Buffett's Business Wisdom: A Thematic Synthesis of 48 Years of Shareholder Letters (1977-2025)
 
 > This document synthesizes approximately 1,050 lessons extracted from Warren Buffett's annual shareholder letters spanning 1977 to 2024. Rather than organizing chronologically, it clusters insights by enduring theme, tracing how each idea emerged, evolved, and compounded across nearly five decades of practice. Year references (e.g., [1986], [2007]) point to the specific letter where a lesson appears.
 
@@ -527,4 +527,4 @@ This self-similarity is not accidental. It reflects a worldview built on a small
 
 ---
 
-*Synthesized from lessons extracted from Buffett's shareholder letters, 1977-2024. Approximately 1,050 individual lessons organized into 15 thematic sections plus meta-analysis. All year references point to the specific annual letter where the lesson or quote appears.*
+*Synthesized from lessons extracted from Buffett's shareholder letters, 1977-2025. Approximately 1,050 individual lessons organized into 15 thematic sections plus meta-analysis. All year references point to the specific annual letter where the lesson or quote appears.*

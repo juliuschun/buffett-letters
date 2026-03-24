@@ -244,7 +244,7 @@ Honest leaders explain complex situations in plain language. Those who hide behi
 
 ## The Complete Accounting Honesty Framework
 
-Across 48 years of letters, Buffett built a unified theory of honest accounting and transparent communication:
+Across 49 years of letters, Buffett built a unified theory of honest accounting and transparent communication:
 
 1. **Translate accounting to economics.** GAAP records; the investor's job is to evaluate. Owner earnings, not reported earnings, reveal reality [1986].
 

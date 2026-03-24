@@ -198,10 +198,10 @@ The calculations required to value a business are not complex. Estimate future c
 
 What is hard -- what requires decades of discipline and self-knowledge -- is the emotional fortitude to apply that arithmetic consistently. When effortless money is sedating the rationality of everyone around you, when Mr. Market is bidding prices to the sky, when your neighbors are getting rich on birdless bushes, the temptation to abandon the math is overwhelming.
 
-Buffett's contribution to valuation theory is not a new formula. It is the demonstration, across 48 years, that the old formula works -- if you have the character to apply it.
+Buffett's contribution to valuation theory is not a new formula. It is the demonstration, across 49 years, that the old formula works -- if you have the character to apply it.
 
 > "Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down." -- [2008]
 
 ---
 
-*Sources: Lessons extracted from Buffett's shareholder letters, 1977-2024. Year references in brackets indicate the specific annual letter where the lesson or quote appears.*
+*Sources: Lessons extracted from Buffett's shareholder letters, 1977-2025. Year references in brackets indicate the specific annual letter where the lesson or quote appears.*

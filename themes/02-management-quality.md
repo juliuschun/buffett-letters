@@ -2,7 +2,7 @@
 
 > *"Somebody once said that in looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don't have the first, the other two will kill you."* — [2003]
 
-Warren Buffett's 48 years of shareholder letters (1977–2024) contain the most detailed, real-world treatise on management evaluation ever written by a capital allocator. This is not theory. Every principle below was forged from actual decisions — hiring, firing, acquiring, compensating, and trusting managers with billions of dollars. What follows is every named manager, every evaluation criterion, every story, and every memorable line Buffett offered on the subject.
+Warren Buffett's 49 years of shareholder letters (1977–2025) contain the most detailed, real-world treatise on management evaluation ever written by a capital allocator. This is not theory. Every principle below was forged from actual decisions — hiring, firing, acquiring, compensating, and trusting managers with billions of dollars. What follows is every named manager, every evaluation criterion, every story, and every memorable line Buffett offered on the subject.
 
 ---
 
@@ -97,7 +97,7 @@ Warren Buffett's 48 years of shareholder letters (1977–2024) contain the most 
 
 ## 2. Management Evaluation Criteria — With Real Examples
 
-Buffett's management evaluation framework, distilled from 48 years of letters, rests on five pillars:
+Buffett's management evaluation framework, distilled from 49 years of letters, rests on five pillars:
 
 ### Criterion 1: Owner-Operator Mentality
 
@@ -422,7 +422,7 @@ Buffett acknowledged this approach would occasionally produce a bad outcome, but
 
 ## Synthesis: The Buffett Management System
 
-Across 48 years, a coherent system emerges. It is not a checklist but a philosophy with interlocking parts:
+Across 49 years, a coherent system emerges. It is not a checklist but a philosophy with interlocking parts:
 
 1. **Find owner-operators who love their business** — not hired-gun CEOs chasing the next position
 2. **Evaluate character first, credentials second** — integrity, passion, and independence matter more than degrees or resumes
@@ -439,4 +439,4 @@ The system's genius is its self-reinforcing nature: great managers are attracted
 
 ---
 
-*Sources: Berkshire Hathaway Annual Shareholder Letters, 1977–2024. All quotes attributed to specific years based on the letter in which they appeared. Some quotes are paraphrased from context when exact wording varied across multiple letters.*
+*Sources: Berkshire Hathaway Annual Shareholder Letters, 1977–2025. All quotes attributed to specific years based on the letter in which they appeared. Some quotes are paraphrased from context when exact wording varied across multiple letters.*

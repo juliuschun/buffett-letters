@@ -167,4 +167,4 @@ The practical conclusion is simple but powerful: invest in productive American e
 
 ---
 
-*Sources: Lessons extracted from Buffett's shareholder letters, 1977-2024. Year references in brackets indicate the specific annual letter where the lesson or quote appears.*
+*Sources: Lessons extracted from Buffett's shareholder letters, 1977-2025. Year references in brackets indicate the specific annual letter where the lesson or quote appears.*

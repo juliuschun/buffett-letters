@@ -1,6 +1,6 @@
 # Buffett's Acquisition & Investment Evaluation: Case Study Compilation
 
-How Warren Buffett actually analyzed businesses before buying or rejecting them -- extracted from shareholder letters (1977-2024).
+How Warren Buffett actually analyzed businesses before buying or rejecting them -- extracted from shareholder letters (1977-2025).
 
 ---
 

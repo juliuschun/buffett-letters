@@ -15,7 +15,7 @@ Each section maps a checklist item to:
 1. **Exactly where to find the data** (free sources, with URLs)
 2. **What specific numbers to pull** (the metrics Buffett actually tracked)
 3. **How Buffett did it** (real case study with real numbers)
-4. **Red flags and green flags** (pattern recognition from 48 years)
+4. **Red flags and green flags** (pattern recognition from 49 years)
 5. **AI-assisted analysis prompt** (copy-paste prompts for AI research)
 
 ---
@@ -560,4 +560,4 @@ If all six pass, proceed to the full 28-question checklist.
 
 ---
 
-*This field guide is a companion to the [Buffett Business Checklist](buffett-business-checklist.md). All case studies and metrics are extracted from Buffett's shareholder letters (1977-2024). Detailed case studies available in the `/case-studies/` folder.*
+*This field guide is a companion to the [Buffett Business Checklist](buffett-business-checklist.md). All case studies and metrics are extracted from Buffett's shareholder letters (1977-2025). Detailed case studies available in the `/case-studies/` folder.*

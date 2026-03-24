@@ -4,7 +4,7 @@
 
 If there is a single idea that runs beneath every page of Warren Buffett's shareholder letters -- through insurance float, retained earnings, acquisition criteria, and corporate governance -- it is compounding. Not as a formula taught in a finance textbook, but as a lived reality: small advantages, applied consistently over decades, produce results that look like magic to anyone who did not watch them accumulate. Berkshire Hathaway is the proof. A failing textile mill bought for $19 a share in 1965 became worth over $40,442 per share by 2000 [2000] and continued climbing to produce a 5,502,284% overall gain by 2024 [2024]. No single year was miraculous. The miracle was that it never stopped.
 
-This chapter traces the compounding theme across all 48 years of Buffett's letters, from the savings account analogy that opens the very first one to the "American Tailwind" reflections of the final ones.
+This chapter traces the compounding theme across all 49 years of Buffett's letters, from the savings account analogy that opens the very first one to the "American Tailwind" reflections of the final ones.
 
 ---
 
@@ -24,7 +24,7 @@ This lens -- returns on capital, not growth in absolute earnings -- becomes the 
 
 ### Tax-Deferred Compounding: $692,000 vs. $25,250
 
-The 1989 letter contains what may be the most powerful mathematical illustration in all 48 years. Buffett presents two scenarios for a $1 investment compounding at a pre-tax rate over 20 years, comparing the wealth accumulated by a patient holder versus an active trader who realizes gains annually and pays taxes each year.
+The 1989 letter contains what may be the most powerful mathematical illustration in all 49 years. Buffett presents two scenarios for a $1 investment compounding at a pre-tax rate over 20 years, comparing the wealth accumulated by a patient holder versus an active trader who realizes gains annually and pays taxes each year.
 
 The results are staggering. Under the patient approach -- buy, hold, and defer taxes -- $1 grows to $692,000. Under the active approach -- sell, pay tax, reinvest annually -- the same $1 grows to just $25,250. The difference is not a rounding error. It is a 27-to-1 advantage for patience [1989].
 

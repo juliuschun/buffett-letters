@@ -30,7 +30,7 @@ The textile-versus-insurance lesson of 1977 is restated with the same conviction
 
 ### 3. The Four-Criteria Acquisition Framework
 
-Understandable business, favorable long-term prospects, honest and able management, sensible price. This framework was articulated in the earliest letters and repeated, almost verbatim, for 48 years. Not once did Buffett add a fifth criterion or remove one. The simplicity was the point.
+Understandable business, favorable long-term prospects, honest and able management, sensible price. This framework was articulated in the earliest letters and repeated, almost verbatim, for 49 years. Not once did Buffett add a fifth criterion or remove one. The simplicity was the point.
 
 **Example**: The framework kept Berkshire out of technology companies for decades -- not because technology was bad, but because Buffett could not satisfy the "understandable" criterion. When he finally invested in Apple, it was because he understood the consumer behavior (brand loyalty, switching costs) even if he did not understand the engineering.
 
@@ -118,7 +118,7 @@ This self-similarity is not a metaphor. It is a structural feature of the thinki
 
 ### 1. Pricing Discipline
 
-The discipline of walking away from bad insurance pricing at National Indemnity [1977-2024] is structurally identical to the discipline of walking away from an overpriced acquisition [2017]. In both cases, the market pressures you to act. In both cases, the competitors who succumb to that pressure eventually fail. In both cases, the correct response is to do nothing and wait.
+The discipline of walking away from bad insurance pricing at National Indemnity [1977-2025] is structurally identical to the discipline of walking away from an overpriced acquisition [2017]. In both cases, the market pressures you to act. In both cases, the competitors who succumb to that pressure eventually fail. In both cases, the correct response is to do nothing and wait.
 
 ### 2. The Moat Concept
 
@@ -198,4 +198,4 @@ There are no secret formulas, no hidden techniques, no proprietary algorithms. T
 
 ---
 
-*Synthesized from approximately 1,050 lessons extracted from Buffett's shareholder letters, 1977-2024. All year references point to the specific annual letter where the lesson or quote appears.*
+*Synthesized from approximately 1,050 lessons extracted from Buffett's shareholder letters, 1977-2025. All year references point to the specific annual letter where the lesson or quote appears.*

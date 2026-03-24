@@ -437,4 +437,4 @@ Choose the castle. Choose the moat. The rest follows.
 
 ---
 
-*Sources: Berkshire Hathaway Annual Shareholder Letters, 1977-2024. All quotes attributed to Warren Buffett unless otherwise noted.*
+*Sources: Berkshire Hathaway Annual Shareholder Letters, 1977-2025. All quotes attributed to Warren Buffett unless otherwise noted.*

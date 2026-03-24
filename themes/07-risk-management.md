@@ -6,7 +6,7 @@ Warren Buffett is celebrated as an investor, a capital allocator, a folksy sage 
 
 > "Predicting rain doesn't count, building arks does." [2001]
 
-This chapter traces the risk management philosophy across all 48 years of letters, from early warnings about leverage in the 1970s through the formalized "never play Russian roulette" framework of the 2010s and the climate-risk warnings of the 2020s. It is the story of a man who spent six decades preparing for disasters he could not predict, and who turned that preparation into a competitive weapon.
+This chapter traces the risk management philosophy across all 49 years of letters, from early warnings about leverage in the 1970s through the formalized "never play Russian roulette" framework of the 2010s and the climate-risk warnings of the 2020s. It is the story of a man who spent six decades preparing for disasters he could not predict, and who turned that preparation into a competitive weapon.
 
 ---
 
@@ -619,7 +619,7 @@ The entire risk management framework is built on the assumption that the future 
 
 ## The Simple Rules
 
-After 48 years of letters, Buffett's risk management philosophy reduces to a handful of principles that are easy to state and hard to follow:
+After 49 years of letters, Buffett's risk management philosophy reduces to a handful of principles that are easy to state and hard to follow:
 
 1. **Cash is oxygen.** Maintain more than you think you need, at all times. "Never thought about when it is present, the only thing in mind when it is absent" [2014].
 2. **Never play Russian roulette.** No expected-value calculation justifies risking what you have and need for what you don't have and don't need [2014, 2017, 2018].

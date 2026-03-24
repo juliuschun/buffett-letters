@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Across 48 years of shareholder letters (1977-2024), Warren Buffett returns to three interlocking themes more than almost any other: the power to set prices, the discipline to control costs, and the dream of a business that generates enormous cash while requiring almost no capital. These are not separate ideas. They are facets of a single insight: **the best business is one that can charge more, spend less, and reinvest almost nothing to keep the machine running.**
+Across 49 years of shareholder letters (1977-2025), Warren Buffett returns to three interlocking themes more than almost any other: the power to set prices, the discipline to control costs, and the dream of a business that generates enormous cash while requiring almost no capital. These are not separate ideas. They are facets of a single insight: **the best business is one that can charge more, spend less, and reinvest almost nothing to keep the machine running.**
 
 This chapter traces those themes through every letter, extracting the frameworks, the numbers, the metaphors, and the case studies that make Buffett's thinking concrete.
 
@@ -487,7 +487,7 @@ Arrogance leads to price increases beyond what quality justifies. Bureaucracy ad
 
 ## Summary: The Unified Framework
 
-Buffett's 48 years of letters reveal a single, coherent framework for evaluating business quality:
+Buffett's 49 years of letters reveal a single, coherent framework for evaluating business quality:
 
 1. **Identify the business type.** Is it a franchise (pricing power, no close substitute, unregulated) or a commodity (interchangeable product, price competition)?
 
@@ -509,4 +509,4 @@ The extraordinary result comes from finding a business with pricing power or str
 
 ---
 
-*Sources: Berkshire Hathaway Annual Letters to Shareholders, 1977-2024. All quotes attributed by year of letter.*
+*Sources: Berkshire Hathaway Annual Letters to Shareholders, 1977-2025. All quotes attributed by year of letter.*

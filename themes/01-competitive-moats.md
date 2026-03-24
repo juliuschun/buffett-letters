@@ -2,7 +2,7 @@
 
 > *"In business, I look for economic castles protected by unbreachable 'moats.'"* — [1995]
 
-This is the single most important idea in Warren Buffett's investment philosophy. Over 48 years of shareholder letters (1977–2024), the concept of the competitive moat evolved from a casual metaphor into an elaborate, battle-tested framework for evaluating businesses. What follows is every significant thing Buffett ever wrote about moats — the metaphors, the company examples with hard numbers, the failures, the taxonomy, and the practical tests — assembled chronologically so you can watch the idea grow in his mind.
+This is the single most important idea in Warren Buffett's investment philosophy. Over 49 years of shareholder letters (1977–2025), the concept of the competitive moat evolved from a casual metaphor into an elaborate, battle-tested framework for evaluating businesses. What follows is every significant thing Buffett ever wrote about moats — the metaphors, the company examples with hard numbers, the failures, the taxonomy, and the practical tests — assembled chronologically so you can watch the idea grow in his mind.
 
 ---
 
@@ -370,7 +370,7 @@ The [2008] crisis revealed that several financial companies Buffett had avoided 
 
 ## Part V: The Complete Moat Taxonomy
 
-Drawing from all 48 years of letters, Buffett identified these categories of competitive moat:
+Drawing from all 49 years of letters, Buffett identified these categories of competitive moat:
 
 ### 1. Brand / Consumer Franchise
 
@@ -459,7 +459,7 @@ Drawing from all 48 years of letters, Buffett identified these categories of com
 
 ## Part VI: Practical Tests for Moat Strength
 
-From Buffett's 48 years of letters, these are the operational questions he used to evaluate moat strength:
+From Buffett's 49 years of letters, these are the operational questions he used to evaluate moat strength:
 
 ### The Pricing Power Test
 > *"The single most important decision in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business."* [2011]
@@ -512,7 +512,7 @@ Ask: Do customers have an emotional relationship with this product or brand? Pro
 
 ## Part VII: The Moat Builder's Principles
 
-Synthesized from 48 years of observation, these are the principles Buffett applied:
+Synthesized from 49 years of observation, these are the principles Buffett applied:
 
 ### 1. Moats Are Dynamic, Not Static
 
@@ -570,4 +570,4 @@ In a world of uncertainty, the moat that matters most is the one you build aroun
 
 ---
 
-*This compilation draws from every annual letter Warren Buffett wrote to Berkshire Hathaway shareholders from 1977 through 2024 — 48 years of accumulated wisdom on what makes a business truly durable. Year references [YYYY] indicate the shareholder letter in which the quote or concept appeared.*
+*This compilation draws from every annual letter Warren Buffett wrote to Berkshire Hathaway shareholders from 1977 through 2024 — 49 years of accumulated wisdom on what makes a business truly durable. Year references [YYYY] indicate the shareholder letter in which the quote or concept appeared.*

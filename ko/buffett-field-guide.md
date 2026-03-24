@@ -580,4 +580,4 @@ Value [COMPANY] using Buffett's framework:
 
 ---
 
-*이 실무 지침서는 [버핏 비즈니스 체크리스트](buffett-business-checklist.md)의 동반 문서입니다. 모든 사례 연구와 지표는 버핏의 주주서한(1977-2024)에서 추출되었습니다. 상세 사례 연구는 `/case-studies/` 폴더에서 확인할 수 있습니다.*
+*이 실무 지침서는 [버핏 비즈니스 체크리스트](buffett-business-checklist.md)의 동반 문서입니다. 모든 사례 연구와 지표는 버핏의 주주서한(1977-2025)에서 추출되었습니다. 상세 사례 연구는 `/case-studies/` 폴더에서 확인할 수 있습니다.*

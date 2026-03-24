@@ -240,7 +240,7 @@ This long-term preparation was itself a governance statement. Most companies tre
 
 ## The Complete Governance Framework
 
-Across 48 years of letters, Buffett built a governance model that rejected bureaucratic compliance in favor of economic alignment:
+Across 49 years of letters, Buffett built a governance model that rejected bureaucratic compliance in favor of economic alignment:
 
 1. **Directors must own stock purchased with their own money.** Regulatory "independence" is meaningless without economic skin in the game [2003, 2019, 2024].
 
