@@ -3,7 +3,7 @@
 > *"It is not necessary to do extraordinary things to get extraordinary results."*
 > — Warren Buffett, 1987 Shareholder Letter
 
-A comprehensive analysis of **all 48 Warren Buffett shareholder letters** (1977–2024), extracting timeless lessons on how businesses survive and thrive.
+A comprehensive analysis of **all 49 Berkshire Hathaway shareholder letters** (1977–2025), extracting timeless lessons on how businesses survive and thrive. Includes Greg Abel's historic first CEO letter (2025).
 
 **[한국어 버전 (Korean)](README.ko.md)**
 
@@ -13,11 +13,11 @@ A comprehensive analysis of **all 48 Warren Buffett shareholder letters** (1977�
 
 | | Count |
 |---|---|
-| **Letters analyzed** | 48 (1977–2024) |
-| **Business lessons extracted** | 1,070 |
+| **Letters analyzed** | 49 (1977–2025) |
+| **Business lessons extracted** | 1,091 |
 | **Memorable quotes collected** | 1,262 |
 | **Thematic categories** | 15 |
-| **Years of wisdom** | 48 |
+| **Years of wisdom** | 49 |
 
 ## Repository Structure
 
@@ -28,12 +28,12 @@ A comprehensive analysis of **all 48 Warren Buffett shareholder letters** (1977�
 ├── buffett-quotations-collection.md             # 1,237 curated quotes
 ├── buffett-business-checklist.md                # 3-stage evaluation checklist (EN)
 ├── buffett-business-checklist-ko.md             # 3-stage evaluation checklist (KR)
-├── markdown/                                    # All 48 letters in Markdown
+├── markdown/                                    # All 49 letters in Markdown
 │   ├── buffett-letter-1977.md
-│   └── ... (through buffett-letter-2024.md)
+│   └── ... (through buffett-letter-2025.md)
 └── lessons/                                     # Per-year lesson extraction
     ├── lessons-1977.md
-    └── ... (through lessons-2024.md)
+    └── ... (through lessons-2025.md)
 ```
 
 ## The Synthesis: 15 Themes Across 48 Years
@@ -58,7 +58,7 @@ The [synthesis document](buffett-business-wisdom-synthesis.md) organizes ~1,050 
 
 ## The Buffett Business Checklist
 
-A practical 3-stage evaluation framework distilled from 48 years of wisdom:
+A practical 3-stage evaluation framework distilled from 49 years of wisdom:
 
 | Stage | What It Does | Output |
 |-------|-------------|--------|
@@ -97,7 +97,7 @@ The complete [quotation collection](buffett-quotations-collection.md) contains 1
 This project used AI agents (Claude) to:
 1. **Download** all 48 shareholder letters from [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html)
 2. **Convert** HTML and PDF letters to clean Markdown with tables preserved
-3. **Extract lessons** from each letter using 48 parallel AI agents, focused on business survival and thriving
+3. **Extract lessons** from each letter using 49 parallel AI agents, focused on business survival and thriving
 4. **Collect quotations** — Buffett's gift for expressing complex ideas in memorable language
 5. **Synthesize** all 1,070 lessons into 15 thematic categories with cross-references
 6. **Build checklist** — A practical 3-stage evaluation framework with scoring system
@@ -117,4 +117,4 @@ The analysis, extraction, and synthesis are provided for educational purposes.
 
 ---
 
-*Built with Claude by [Enterprise AI](https://github.com/juliuschun) — because the best investment advice has been free and public for 48 years.*
+*Built with Claude by [Enterprise AI](https://github.com/juliuschun) — because the best investment advice has been free and public for 49 years.*
