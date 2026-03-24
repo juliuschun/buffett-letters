@@ -25,33 +25,50 @@ This repo bridges that gap. It gives your AI:
 
 The difference: an LLM without this repo gives you generic business advice. An LLM with this repo tells you *exactly which Buffett principle applies to your situation, why he believed it, which company proved it, and what year he said it* — then scores your business on a 100-point moat scale.
 
+### The same principle, applied to machines
+
+Buffett's writings make humans wiser — not because they contain secret formulas, but because they are full of *specific stories, specific numbers, and specific reasoning*. A person who reads all 49 letters thinks about business differently than someone who just knows "buy and hold."
+
+The same is true for LLMs. General training gives an AI the equivalent of knowing Buffett's name. This repo gives it the equivalent of having *read every letter, internalized every case study, and built a mental model from 49 years of evidence*. The specificity is what creates depth — not just "moats matter" but "here is exactly how GEICO's cost moat widened from 1986 to 2020, here is the math, here is what it means for your business."
+
+Because the checklist produces a numerical score (0-100), this also enables **large-scale screening**. Feed your AI a list of companies, and it can evaluate each one through the full Buffett framework — consistently, thoroughly, with cited reasoning — at a speed no human analyst can match.
+
 ## How to Use This
 
-### For AI — the primary use case
+This repo has two tracks, built for different purposes:
 
-Drop these files into your AI's context. The more you include, the sharper the analysis:
+### Track 1: Business Analysis Toolkit — feed it to your AI
+
+The core product. These files turn an LLM into a Buffett-grade business analyst:
 
 | What to Feed Your AI | What It Gets |
 |---|---|
 | `buffett-business-checklist.md` | The evaluation framework — 28 questions, 7 gates, moat scoring |
-| `business-reference/` (7 files) | Deep evidence for every checklist concept — the *why* behind every question |
+| `business-reference/` (7 files) | Deep evidence for every checklist concept — the *why* behind every question, with links to original letters |
 | `buffett-field-guide.md` | Practical how-to: where to find data, what numbers to pull, how to interpret |
 | `case-studies/` | Worked examples showing the framework in action |
-| `themes/` (16 files) | Full thematic analysis — your AI absorbs 49 years of pattern recognition |
-| `lessons/` (49 files) | Year-by-year lessons — maximum context for maximum depth |
+
+Every claim in the analysis toolkit links back to the original letter via `markdown/buffett-letter-YYYY.md`. When your AI encounters a reference like `[1986](markdown/buffett-letter-1986.md)`, it can read the full original text for deeper context. The chain goes: **checklist question → business-reference evidence → original letter**.
 
 **Minimum viable prompt**: give your AI the checklist + business-reference, then ask it to evaluate any company. It will run the full Buffett analysis — industry, moat, management, risk, valuation — with specific letter references backing every judgment.
 
-**Maximum depth**: feed everything. Your AI now has more structured Buffett knowledge than any human analyst, cross-referenced across 49 years.
+**For large-scale screening**: because the checklist outputs a 0-100 score, you can feed a list of companies and get consistent, comparable evaluations across all of them.
 
-### For Humans — still great on its own
+### Track 2: Wisdom Library — read it yourself, or let AI absorb it
 
-Read it yourself. This is 49 years of the world's greatest investor explaining business in plain English, organized so you can find what you need:
+49 years of the world's greatest investor explaining business in plain English. Great for building general judgment — whether you read it yourself or feed it to an AI for deeper context.
 
-- **[15 Themes Synthesis](buffett-business-wisdom-synthesis.md)** — the big picture
-- **[Quotation Collection](buffett-quotations-collection.md)** — 1,262 quotes, 11 categories, Top 25 iconic
-- **[Business Checklist](buffett-business-checklist.md)** — evaluate any business in 3 stages
-- **[Field Guide](buffett-field-guide.md)** — practical how-to with real examples
+| Document | What It Contains |
+|---|---|
+| **[15 Themes Synthesis](buffett-business-wisdom-synthesis.md)** | 1,050 lessons organized into 15 enduring themes |
+| **[Quotation Collection](buffett-quotations-collection.md)** | 1,262 quotes, 11 categories, Top 25 iconic |
+| **[Theme Deep-Dives](themes/)** (16 files) | Full analysis of each theme with stories and examples |
+| **[Year-by-Year Lessons](lessons/)** (49 files) | Every lesson from every letter, in chronological context |
+| **[Original Letters](markdown/)** (49 files) | The full text of every shareholder letter, 1977-2025 |
+
+These are the files that make humans — and AIs — wiser over time. Not for scoring a specific company, but for building the mental models that make every future analysis sharper.
+
+**Maximum depth**: feed the analysis toolkit *and* the wisdom library together. Your AI now has the structured framework *plus* the deep pattern recognition from 49 years of stories, mistakes, and evolving thinking.
 
 ---
 
@@ -130,6 +147,19 @@ eco-moat-ai/
 > *"Only when the tide goes out do you discover who's been swimming naked."* — [1992]
 
 [All 1,262 quotes →](buffett-quotations-collection.md)
+
+## Install as a Claude Skill
+
+If you use Claude Code / Tower, install eco-moat-ai as a skill so it's always available:
+
+```bash
+git clone https://github.com/juliuschun/eco-moat-ai.git ~/eco-moat-ai
+ln -s ~/eco-moat-ai/.claude/skills/eco-moat-ai ~/.claude/skills/eco-moat-ai
+```
+
+Then just say "evaluate [company]" and the skill activates — running the full 3-stage Buffett analysis with moat scoring.
+
+The skill includes the complete evaluation framework inline, references the deep-dive files for evidence, and links through to original letters when needed. It also supports batch screening mode for comparing multiple companies at once.
 
 ## How This Was Made
 

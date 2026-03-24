@@ -1,6 +1,6 @@
 # Acquisition Discipline — Better Wonderful at Fair Than Fair at Wonderful
 
-> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — [1989]
+> *"It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."* — [1989](../markdown/buffett-letter-1989.md)
 
 **Checklist mapping**: Gate G4 (Sensible Price), Gate G5 (Demonstrated Earnings), Stage 2 overall filter
 
@@ -14,30 +14,30 @@ Every acquisition must pass Buffett's fundamental test: is the business value re
 
 ## Buffett's Acquisition Criteria — Explicit and Unwavering
 
-**[1983] The published criteria:**
+**[1983](../markdown/buffett-letter-1983.md) The published criteria:**
 > Large earnings, demonstrated consistency, good returns on equity with little debt, management in place, simple businesses, and a known offering price. Having clear, public acquisition criteria saves enormous time and filters out poor fits.
 
 Key word: *demonstrated* earning power, not *projected*. This single requirement eliminates most value-destroying acquisitions.
 
-**[2007] The core criteria restated:**
+**[2007](../markdown/buffett-letter-2007.md) The core criteria restated:**
 > Berkshire seeks businesses with durable competitive advantages, honest and competent management, and a sensible price. Control is irrelevant if these three factors are favorable.
 
-**[2020] Three essential filters:**
+**[2020](../markdown/buffett-letter-2020.md) Three essential filters:**
 > (1) A company's durable competitive strengths, (2) the capabilities and character of its management, and (3) price.
 
 ---
 
 ## Why CEOs Overpay — The Institutional Imperative in Action
 
-**[2017] The ecosystem of deal fever:**
+**[2017](../markdown/buffett-letter-2017.md) The ecosystem of deal fever:**
 > The entire ecosystem around a CEO encourages deal-making, not prudence. Subordinates envision enlarged domains and bigger pay. Investment bankers applaud because they smell fees. Spreadsheet projections of "synergies" never disappoint.
 
 > "Build organizational checks against acquisition fever. Evaluate deals on an all-equity basis (removing the flattering effect of cheap debt). Be deeply skeptical of projected synergies — they rarely materialize as forecast."
 
-**[2017] Frenzied markets demand patience:**
+**[2017](../markdown/buffett-letter-2017.md) Frenzied markets demand patience:**
 > When the market is frothy and prices are detached from intrinsic value, the disciplined move is to walk away and wait. Overpaying for an acquisition can destroy years of future returns.
 
-**[2007] Stock-based acquisitions compound errors:**
+**[2007](../markdown/buffett-letter-2007.md) Stock-based acquisitions compound errors:**
 > Using stock to make acquisitions can compound errors enormously. When you pay with shares of a wonderful business for a worthless one, the true cost is not the dollar amount at the time but the future value of the shares you gave away. Buffett gave away 1.6% of what became a $220 billion company.
 
 > "Be extremely cautious about using equity as acquisition currency. The opportunity cost of issuing shares in a high-quality business to buy a mediocre one can be staggering over time."
@@ -46,12 +46,12 @@ Key word: *demonstrated* earning power, not *projected*. This single requirement
 
 ## Turnarounds Seldom Turn
 
-**[1983] The quicksand warning:**
+**[1983](../markdown/buffett-letter-1983.md) The quicksand warning:**
 > Major additional investment in a terrible industry is "about as rewarding as struggling in quicksand." The projections will be dazzling and the advocates sincere, but industry economics usually prevail over even the best management.
 
 > "React with great caution to turnaround proposals requiring significant capital."
 
-**[1979] Industry structure overpowers management:**
+**[1979](../markdown/buffett-letter-1979.md) Industry structure overpowers management:**
 > Certain industries amplify the impact of good or bad management. But even in those industries, a structurally disadvantaged business will destroy capital regardless of who runs it.
 
 **[1977, 1996] Turnarounds seldom turn:**
@@ -66,7 +66,7 @@ Key word: *demonstrated* earning power, not *projected*. This single requirement
 
 Why this matters: Projections are a tool for sellers. Every acquisition target comes with a beautiful spreadsheet showing hockey-stick growth. Buffett ignores all of it — he only looks at what the business has actually earned, in good times and bad.
 
-**[1983] Explicit rejection of projections:**
+**[1983](../markdown/buffett-letter-1983.md) Explicit rejection of projections:**
 > Never pursue turnarounds or businesses you cannot understand. Requiring demonstrated earning power filters out the speculative acquisitions that destroy the most value.
 
 ---
@@ -76,57 +76,57 @@ Why this matters: Projections are a tool for sellers. Every acquisition target c
 **[1992, 2016] Smart at one price, stupid at another:**
 > "What is smart at one price is stupid at another." This applies equally to acquisitions, share repurchases, and every capital allocation decision.
 
-**[2008] Price vs. value:**
+**[2008](../markdown/buffett-letter-2008.md) Price vs. value:**
 > "Price is what you pay. Value is what you get."
 
-**[2011] The buyback parallel:**
+**[2011](../markdown/buffett-letter-2011.md) The buyback parallel:**
 > "The first law of capital allocation — whether the money is slated for acquisitions or share repurchases — is that what is smart at one price is dumb at another." Many CEOs "never stop believing their stock is cheap."
 
 ---
 
 ## Small Acquisitions Beat Mega-Deals
 
-**[2012] Tuck-ins are safer:**
+**[2012](../markdown/buffett-letter-2012.md) Tuck-ins are safer:**
 > Small, tuck-in acquisitions that extend existing businesses are far safer than large, transformative deals. They leverage existing management talent and operational knowledge, require no new corporate infrastructure, and can be funded from operating cash flow.
 
-**[2011] The bolt-on compounding strategy:**
+**[2011](../markdown/buffett-letter-2011.md) The bolt-on compounding strategy:**
 > A string of small, disciplined bolt-on acquisitions can create enormous value over time. CTB was purchased for $139 million, distributed $180 million back to Berkshire, earned $124 million pre-tax, and still held $109 million in cash.
 
 > "You do not need transformative mega-deals to grow. A steady cadence of small acquisitions in your area of expertise compounds into dramatic value creation."
 
-**[2007] Discipline in a tough market:**
+**[2007](../markdown/buffett-letter-2007.md) Discipline in a tough market:**
 > Even in a tough housing market, Berkshire's subsidiaries continued making tuck-in acquisitions at sensible prices. Operating managers who understand the industry deeply carry lower risk than corporate development teams doing transformational deals.
 
 ---
 
 ## The Reputation Advantage in Deal-Sourcing
 
-**[2005] Simple, direct communication wins deals:**
+**[2005](../markdown/buffett-letter-2005.md) Simple, direct communication wins deals:**
 > Forest River sent a two-page fax. Business Wire's CEO sent a two-page letter. Both resulted in acquisitions within days. The simplicity of Berkshire's process — no investment bankers, no nit-picking — is itself a competitive advantage.
 
-**[2007] Reputation as deal-sourcing moat:**
+**[2007](../markdown/buffett-letter-2007.md) Reputation as deal-sourcing moat:**
 > A reputation for integrity and reliability in deal-making is a durable competitive advantage. During 2007, many large deals were renegotiated or killed. With Berkshire, a deal is a deal. This reputation gives Berkshire access to opportunities others never see.
 
-**[2011] The never-sell promise:**
+**[2011](../markdown/buffett-letter-2011.md) The never-sell promise:**
 > Berkshire's commitment to never sell an acquired business creates a reputation advantage. Sellers seeking a permanent home know Berkshire's promises are good for decades.
 
-**[2017] Relationships source deals:**
+**[2017](../markdown/buffett-letter-2017.md) Relationships source deals:**
 > The Pilot Flying J acquisition was facilitated by Kevin Clayton's personal relationship with the Haslam family. A positive experience as a Berkshire subsidiary became the best referral.
 
 ---
 
 ## Mistakes Buffett Admits — Learning from Errors
 
-**[2007] The Dexter Shoes disaster:**
+**[2007](../markdown/buffett-letter-2007.md) The Dexter Shoes disaster:**
 > Buffett paid for Dexter Shoes with Berkshire stock — giving away 1.6% of what became a $220 billion company for a business whose moat turned out to be illusory. The combination of misjudging the moat AND paying with equity compounded the error enormously.
 
-**[2020] Admitting overpayment:**
+**[2020](../markdown/buffett-letter-2020.md) Admitting overpayment:**
 > Buffett acknowledged his history of overpaying for acquisitions with characteristic candor.
 
-**[2009] The GEICO credit card fiasco:**
+**[2009](../markdown/buffett-letter-2009.md) The GEICO credit card fiasco:**
 > Buffett's idea, against the advice of his managers, lost approximately $50 million. "I was just older" — the self-deprecation signals genuine intellectual honesty about errors.
 
-**[2020] Conglomerate shell games:**
+**[2020](../markdown/buffett-letter-2020.md) Conglomerate shell games:**
 > Conglomerates that used overvalued stock as currency to make overpriced acquisitions — a shell game that eventually collapses. Growth-by-acquisition strategies that rely on financial engineering rather than genuine value creation inevitably fail.
 
 ---

@@ -19,3 +19,15 @@ Each file maps to a core concept in the checklist. Every claim includes the spec
 ## How to Use
 
 Give these files to your AI agent alongside the checklist. When evaluating a business, the agent can look up the relevant reference file to understand the *reasoning* behind each checklist question — not just the question itself, but the decades of evidence that shaped it.
+
+## Source Chain
+
+Every year reference in these files links directly to the original shareholder letter:
+
+```
+Checklist question
+  → business-reference evidence [1986](../markdown/buffett-letter-1986.md)
+    → original letter full text
+```
+
+When your AI needs deeper context on any claim, it can follow the link to read Buffett's own words in full. There are 151 source links across the 7 reference files.
