@@ -4,7 +4,7 @@
 
 워런 버핏의 주주서한 48년, 1,070개 교훈에서 증류한 실용적 3단계 비즈니스 평가 프레임워크.
 
-**[English Version](buffett-business-checklist.md)**
+**[English Version](../buffett-business-checklist.md)**
 
 ---
 

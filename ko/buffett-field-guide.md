@@ -5,7 +5,7 @@
 
 [체크리스트](buffett-business-checklist.md)는 무엇을 평가할지 알려줍니다. 이 실무 지침서는 **어디서 찾고, 어떤 숫자를 뽑고, 어떻게 해석하는지**를 알려줍니다 — GEICO, See's Candies, Coca-Cola에 대한 버핏의 실제 분석과 그의 최대 실수 사례를 함께 다룹니다.
 
-**[English Version](buffett-field-guide.md)**
+**[English Version](../buffett-field-guide.md)**
 
 ---
 

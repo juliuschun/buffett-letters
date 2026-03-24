@@ -1,11 +1,57 @@
-# Buffett's Letters to Shareholders — Lessons for Business Survival & Thriving
+# eco-moat-ai
+
+### Give it to your AI. Make them run decisions like Buffett.
 
 > *"It is not necessary to do extraordinary things to get extraordinary results."*
 > — Warren Buffett, 1987 Shareholder Letter
 
-A comprehensive analysis of **all 49 Berkshire Hathaway shareholder letters** (1977–2025), extracting timeless lessons on how businesses survive and thrive. Includes Greg Abel's historic first CEO letter (2025).
+49 years of Berkshire Hathaway shareholder letters (1977-2025), distilled into structured knowledge that turns any LLM into a world-class business analyst.
 
-**[한국어 버전 (Korean)](README.ko.md)**
+**[한국어 버전 (Korean)](ko/)**
+
+---
+
+## Why This Exists
+
+LLMs already know who Warren Buffett is. They can quote him. But knowing *about* Buffett and thinking *like* Buffett are completely different things.
+
+This repo bridges that gap. It gives your AI:
+
+- **1,091 specific lessons** extracted from every letter, with year, context, and application
+- **A 3-stage evaluation checklist** (28 questions, 7 binary gates, 6 moat types with combination scoring)
+- **7 deep-dive reference files** linking each checklist concept to the exact passages in the letters
+- **Real case studies** showing how the framework applies to GEICO, See's Candies, and failed acquisitions
+- **1,262 curated quotes** organized by theme, not just the famous ones
+
+The difference: an LLM without this repo gives you generic business advice. An LLM with this repo tells you *exactly which Buffett principle applies to your situation, why he believed it, which company proved it, and what year he said it* — then scores your business on a 100-point moat scale.
+
+## How to Use This
+
+### For AI — the primary use case
+
+Drop these files into your AI's context. The more you include, the sharper the analysis:
+
+| What to Feed Your AI | What It Gets |
+|---|---|
+| `buffett-business-checklist.md` | The evaluation framework — 28 questions, 7 gates, moat scoring |
+| `business-reference/` (7 files) | Deep evidence for every checklist concept — the *why* behind every question |
+| `buffett-field-guide.md` | Practical how-to: where to find data, what numbers to pull, how to interpret |
+| `case-studies/` | Worked examples showing the framework in action |
+| `themes/` (16 files) | Full thematic analysis — your AI absorbs 49 years of pattern recognition |
+| `lessons/` (49 files) | Year-by-year lessons — maximum context for maximum depth |
+
+**Minimum viable prompt**: give your AI the checklist + business-reference, then ask it to evaluate any company. It will run the full Buffett analysis — industry, moat, management, risk, valuation — with specific letter references backing every judgment.
+
+**Maximum depth**: feed everything. Your AI now has more structured Buffett knowledge than any human analyst, cross-referenced across 49 years.
+
+### For Humans — still great on its own
+
+Read it yourself. This is 49 years of the world's greatest investor explaining business in plain English, organized so you can find what you need:
+
+- **[15 Themes Synthesis](buffett-business-wisdom-synthesis.md)** — the big picture
+- **[Quotation Collection](buffett-quotations-collection.md)** — 1,262 quotes, 11 categories, Top 25 iconic
+- **[Business Checklist](buffett-business-checklist.md)** — evaluate any business in 3 stages
+- **[Field Guide](buffett-field-guide.md)** — practical how-to with real examples
 
 ---
 
@@ -13,32 +59,37 @@ A comprehensive analysis of **all 49 Berkshire Hathaway shareholder letters** (1
 
 | | Count |
 |---|---|
-| **Letters analyzed** | 49 (1977–2025) |
+| **Letters analyzed** | 49 (1977-2025) |
 | **Business lessons extracted** | 1,091 |
-| **Memorable quotes collected** | 1,262 |
+| **Quotes collected** | 1,262 |
 | **Thematic categories** | 15 |
 | **Years of wisdom** | 49 |
 
 ## Repository Structure
 
 ```
-├── README.md                                   # This file (English)
-├── README.ko.md                                # Korean version
-├── buffett-business-wisdom-synthesis.md         # The main deliverable: 15 themes
-├── buffett-quotations-collection.md             # 1,237 curated quotes
-├── buffett-business-checklist.md                # 3-stage evaluation checklist (EN)
-├── buffett-business-checklist-ko.md             # 3-stage evaluation checklist (KR)
-├── markdown/                                    # All 49 letters in Markdown
-│   ├── buffett-letter-1977.md
-│   └── ... (through buffett-letter-2025.md)
-└── lessons/                                     # Per-year lesson extraction
-    ├── lessons-1977.md
-    └── ... (through lessons-2025.md)
+eco-moat-ai/
+├── README.md
+├── buffett-business-checklist.md        # 3-stage evaluation framework
+├── buffett-field-guide.md               # Practical application guide
+├── buffett-business-wisdom-synthesis.md  # 15 themes across 49 years
+├── buffett-quotations-collection.md      # 1,262 curated quotes
+├── business-reference/                   # Evidence base for the checklist
+│   ├── 01-competitive-moats.md
+│   ├── 02-pricing-power-and-brand.md
+│   ├── 03-cost-advantage-and-scale.md
+│   ├── 04-capital-allocation.md
+│   ├── 05-management-quality.md
+│   ├── 06-risk-leverage-survival.md
+│   └── 07-acquisition-discipline.md
+├── case-studies/                          # GEICO, See's, failed acquisitions
+├── themes/                               # 16 deep-dive theme analyses
+├── ko/                                   # Korean translations
+├── markdown/                             # All 49 letters in Markdown
+└── lessons/                              # Per-year lesson extraction (49 files)
 ```
 
-## The Synthesis: 15 Themes Across 48 Years
-
-The [synthesis document](buffett-business-wisdom-synthesis.md) organizes ~1,050 lessons into 15 enduring themes:
+## The 15 Themes
 
 1. **Competitive Moats & Durable Advantage** — Build the moat, then widen it every day
 2. **Management Quality & the Owner-Operator Mindset** — Hire well, manage little
@@ -56,9 +107,7 @@ The [synthesis document](buffett-business-wisdom-synthesis.md) organizes ~1,050 
 14. **Valuation** — The timeless math of investing
 15. **American Optimism** — Never bet against the long game
 
-## The Buffett Business Checklist
-
-A practical 3-stage evaluation framework distilled from 49 years of wisdom:
+## The Checklist
 
 | Stage | What It Does | Output |
 |-------|-------------|--------|
@@ -66,9 +115,9 @@ A practical 3-stage evaluation framework distilled from 49 years of wisdom:
 | **Stage 2: Mental Model Filter** | 7 binary gates from Buffett's core criteria | Pass / Fail decision |
 | **Stage 3: Moat Combination Scoring** | 6 moat types x synergy multipliers | Score out of 100 |
 
-**[English Checklist](buffett-business-checklist.md)** | **[Korean Checklist](buffett-business-checklist-ko.md)**
+**[Checklist](buffett-business-checklist.md)** | **[Field Guide](buffett-field-guide.md)** | **[Evidence Base](business-reference/)**
 
-## Greatest Hits: Quotes That Defined an Era
+## Greatest Hits
 
 > *"Be fearful when others are greedy, and greedy when others are fearful."* — [1986]
 
@@ -76,39 +125,15 @@ A practical 3-stage evaluation framework distilled from 49 years of wisdom:
 
 > *"Time is the friend of the wonderful business, the enemy of the mediocre."* — [1989]
 
-> *"Our favorite holding period is forever."* — [1988]
-
 > *"Price is what you pay. Value is what you get."* — [2008]
 
 > *"Only when the tide goes out do you discover who's been swimming naked."* — [1992]
 
-> *"Derivatives are financial weapons of mass destruction."* — [2002]
-
-> *"When it's raining gold, reach for a bucket, not a thimble."* — [2009]
-
-> *"Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks."* — [1985]
-
-> *"We make more money when snoring than when active."* — [1996]
-
-The complete [quotation collection](buffett-quotations-collection.md) contains 1,237 quotes organized into 11 categories, including a curated "Top 25 Most Iconic" section.
+[All 1,262 quotes →](buffett-quotations-collection.md)
 
 ## How This Was Made
 
-This project used AI agents (Claude) to:
-1. **Download** all 48 shareholder letters from [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html)
-2. **Convert** HTML and PDF letters to clean Markdown with tables preserved
-3. **Extract lessons** from each letter using 49 parallel AI agents, focused on business survival and thriving
-4. **Collect quotations** — Buffett's gift for expressing complex ideas in memorable language
-5. **Synthesize** all 1,070 lessons into 15 thematic categories with cross-references
-6. **Build checklist** — A practical 3-stage evaluation framework with scoring system
-
-## How to Use This
-
-- **Entrepreneurs**: Use the checklist to evaluate your own business or a potential venture
-- **Investors**: Dive into individual year lessons for market-specific context
-- **Students**: Use the quotation collection for accessible entry points into business wisdom
-- **Leaders**: Study the management and governance themes for organizational insights
-- **Writers**: Buffett's metaphors and analogies are a masterclass in business communication
+AI agents (Claude) analyzed all 49 letters in parallel — downloading, converting, extracting lessons, collecting quotes, synthesizing themes, and building the evaluation framework. The original letters are publicly available at [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html).
 
 ## License
 
@@ -117,4 +142,4 @@ The analysis, extraction, and synthesis are provided for educational purposes.
 
 ---
 
-*Built with Claude by [Enterprise AI](https://github.com/juliuschun) — because the best investment advice has been free and public for 49 years.*
+*Built by [Moat AI](https://github.com/juliuschun) — because the best investment advice has been free and public for 49 years.*
