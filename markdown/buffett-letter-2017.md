@@ -1,0 +1,386 @@
+# Warren Buffett's Letter to Shareholders — 2017
+
+Source: Berkshire Hathaway Annual Report 2017
+
+---
+
+## **Berkshire’s Performance vs. the S&P 500** 
+
+|Year<br>1965 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1966 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1967 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1968 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1969 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1970 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1972 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1973 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1974 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1976 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1977 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1978 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1979 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1980 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1981 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1982 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1983 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1984 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1985 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1986 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1987 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1988 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1989 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1990 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1991 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1992 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1993 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1994 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1995 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1996 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1998 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2003 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2005 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2006 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2007 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2012 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2013 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2014 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2015 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2016 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>Compounded Annual Gain – 1965-2017 . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>Overall Gain – 1964-2017 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .|Annual Percentage Change|Annual Percentage Change||
+|---|---|---|---|
+||in Per-Share<br>Book Value of<br>Berkshire<br>23.8<br>20.3<br>11.0<br>19.0<br>16.2<br>12.0<br>16.4<br>21.7<br>4.7<br>5.5<br>21.9<br>59.3<br>31.9<br>24.0<br>35.7<br>19.3<br>31.4<br>40.0<br>32.3<br>13.6<br>48.2<br>26.1<br>19.5<br>20.1<br>44.4<br>7.4<br>39.6<br>20.3<br>14.3<br>13.9<br>43.1<br>31.8<br>34.1<br>48.3<br>0.5<br>6.5<br>(6.2)<br>10.0<br>21.0<br>10.5<br>6.4<br>18.4<br>11.0<br>(9.6)<br>19.8<br>13.0<br>4.6<br>14.4<br>18.2<br>8.3<br>6.4<br>10.7<br>23.0<br>19.1%<br>1,088,029%|in Per-Share<br>Market Value of<br>Berkshire<br>49.5<br>(3.4)<br>13.3<br>77.8<br>19.4<br>(4.6)<br>80.5<br>8.1<br>(2.5)<br>(48.7)<br>2.5<br>129.3<br>46.8<br>14.5<br>102.5<br>32.8<br>31.8<br>38.4<br>69.0<br>(2.7)<br>93.7<br>14.2<br>4.6<br>59.3<br>84.6<br>(23.1)<br>35.6<br>29.8<br>38.9<br>25.0<br>57.4<br>6.2<br>34.9<br>52.2<br>(19.9)<br>26.6<br>6.5<br>(3.8)<br>15.8<br>4.3<br>0.8<br>24.1<br>28.7<br>(31.8)<br>2.7<br>21.4<br>(4.7)<br>16.8<br>32.7<br>27.0<br>(12.5)<br>23.4<br>21.9<br>20.9%<br>2,404,748%|in S&P 500<br>with Dividends<br>Included|
+||||10.0<br>(11.7)<br>30.9<br>11.0<br>(8.4)<br>3.9<br>14.6<br>18.9<br>(14.8)<br>(26.4)<br>37.2<br>23.6<br>(7.4)<br>6.4<br>18.2<br>32.3<br>(5.0)<br>21.4<br>22.4<br>6.1<br>31.6<br>18.6<br>5.1<br>16.6<br>31.7<br>(3.1)<br>30.5<br>7.6<br>10.1<br>1.3<br>37.6<br>23.0<br>33.4<br>28.6<br>21.0<br>(9.1)<br>(11.9)<br>(22.1)<br>28.7<br>10.9<br>4.9<br>15.8<br>5.5<br>(37.0)<br>26.5<br>15.1<br>2.1<br>16.0<br>32.4<br>13.7<br>1.4<br>12.0<br>21.8<br>9.9%<br>15,508%|
+
+
+
+**Note:** Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31. Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-tax** . If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial. 
+
+2 
+
+## **BERKSHIRE HATHAWAY INC.** 
+
+## **To the Shareholders of Berkshire Hathaway Inc.:** 
+
+Berkshire’s gain in net worth during 2017 was $65.3 billion, which increased the per-share book value of both our Class A and Class B stock by 23%. Over the last 53 years (that is, since present management took over), pershare book value has grown from $19 to $211,750, a rate of 19.1% compounded annually.* 
+
+The format of that opening paragraph has been standard for 30 years. But 2017 was far from standard: A large portion of our gain did _not_ come from anything we accomplished at Berkshire. 
+
+The $65 billion gain is nonetheless real – rest assured of that. But only $36 billion came from Berkshire’s operations. The remaining $29 billion was delivered to us in December when Congress rewrote the U.S. Tax Code. (Details of Berkshire’s tax-related gain appear on page K-32 and pages K-89 – K-90.) 
+
+After stating those fiscal facts, I would prefer to turn immediately to discussing Berkshire’s operations. But, in still another interruption, I must first tell you about a new accounting rule – a generally accepted accounting principle (GAAP) – that in _future_ quarterly and annual reports will severely distort Berkshire’s net income figures and very often mislead commentators and investors. 
+
+The new rule says that the net change in _unrealized_ investment gains and losses in stocks we hold must be included in all net income figures we report to you. That requirement will produce some truly wild and capricious swings in our GAAP bottom-line. Berkshire owns $170 billion of marketable stocks (not including our shares of Kraft Heinz), and the value of these holdings can easily swing by $10 billion or more within a quarterly reporting period. Including gyrations of that magnitude in reported net income will swamp the truly important numbers that describe our operating performance. For analytical purposes, Berkshire’s “bottom-line” will be useless. 
+
+The new rule compounds the communication problems we have long had in dealing with the _realized_ gains (or losses) that accounting rules compel us to include in our net income. In past quarterly and annual press releases, we have regularly warned you not to pay attention to these realized gains, because they – just like our unrealized gains – fluctuate randomly. 
+
+That’s largely because we sell securities when that seems the intelligent thing to do, not because we are trying to influence earnings in any way. As a result, we sometimes have reported substantial realized gains for a period when our portfolio, overall, performed poorly (or the converse). 
+
+*All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500[th] of those shown for the A shares. 
+
+3 
+
+With the new rule about unrealized gains exacerbating the distortion caused by the existing rules applying to realized gains, we will take pains every quarter to explain the adjustments you need in order to make sense of our numbers. But televised commentary on earnings releases is often instantaneous with their receipt, and newspaper headlines almost always focus on the year-over-year change in GAAP net income. Consequently, media reports sometimes highlight figures that unnecessarily frighten or encourage many readers or viewers. 
+
+We will attempt to alleviate this problem by continuing our practice of publishing financial reports late on Friday, well after the markets close, or early on Saturday morning. That will allow you maximum time for analysis and give investment professionals the opportunity to deliver informed commentary before markets open on Monday. Nevertheless, I expect considerable confusion among shareholders for whom accounting is a foreign language. 
+
+At Berkshire what counts most are increases in our normalized per-share earning power. That metric is what Charlie Munger, my long-time partner, and I focus on – and we hope that you do, too. Our scorecard for 2017 follows. 
+
+## **Acquisitions** 
+
+There are four building blocks that add value to Berkshire: (1) sizable stand-alone acquisitions; (2) bolt-on acquisitions that fit with businesses we already own; (3) internal sales growth and margin improvement at our many and varied businesses; and (4) investment earnings from our huge portfolio of stocks and bonds. In this section, we will review 2017 acquisition activity. 
+
+In our search for new stand-alone businesses, the key qualities we seek are durable competitive strengths; able and high-grade management; good returns on the net tangible assets required to operate the business; opportunities for internal growth at attractive returns; and, finally, _a sensible purchase price_ . 
+
+That last requirement proved a barrier to virtually all deals we reviewed in 2017, as prices for decent, but far from spectacular, businesses hit an all-time high. Indeed, price seemed almost irrelevant to an army of optimistic purchasers. 
+
+Why the purchasing frenzy? In part, it’s because the CEO job self-selects for “can-do” types. If Wall Street analysts or board members urge that brand of CEO to consider possible acquisitions, it’s a bit like telling your ripening teenager to be sure to have a normal sex life. 
+
+Once a CEO hungers for a deal, he or she will never lack for forecasts that justify the purchase. Subordinates will be cheering, envisioning enlarged domains and the compensation levels that typically increase with corporate size. Investment bankers, smelling huge fees, will be applauding as well. (Don’t ask the barber whether you need a haircut.) If the historical performance of the target falls short of validating its acquisition, large “synergies” will be forecast. Spreadsheets never disappoint. 
+
+The ample availability of extraordinarily cheap debt in 2017 further fueled purchase activity. After all, even a high-priced deal will usually boost per-share earnings if it is debt-financed. At Berkshire, in contrast, we evaluate acquisitions on an all-equity basis, knowing that our taste for overall debt is very low and that to assign a large portion of our debt to any individual business would generally be fallacious (leaving aside certain exceptions, such as debt dedicated to Clayton’s lending portfolio or to the fixed-asset commitments at our regulated utilities). We also never factor in, nor do we often find, synergies. 
+
+Our aversion to leverage has dampened our returns over the years. But Charlie and I sleep well. Both of us believe it is insane to risk what you have and need in order to obtain what you don’t need. We held this view 50 years ago when we each ran an investment partnership, funded by a few friends and relatives who trusted us. We also hold it today after a million or so “partners” have joined us at Berkshire. 
+
+4 
+
+Despite our recent drought of acquisitions, Charlie and I believe that from time to time Berkshire will have opportunities to make very large purchases. In the meantime, we will stick with our simple guideline: The less the prudence with which others conduct their affairs, the greater the prudence with which we must conduct our own. 
+
+## 
+
+We were able to make one sensible stand-alone purchase last year, a 38.6% partnership interest in Pilot Flying J (“PFJ”). With about $20 billion in annual volume, the company is far and away the nation’s leading travel-center operator. 
+
+PFJ has been run from the get-go by the remarkable Haslam family. “Big Jim” Haslam began with a dream and a gas station 60 years ago. Now his son, Jimmy, manages 27,000 associates at about 750 locations throughout North America. Berkshire has a contractual agreement to increase its partnership interest in PFJ to 80% in 2023; Haslam family members will then own the remaining 20%. Berkshire is delighted to be their partner. 
+
+When driving on the Interstate, drop in. PFJ sells gasoline as well as diesel fuel, and the food is good. If it’s been a long day, remember, too, that our properties have 5,200 showers. 
+
+Let’s move now to bolt-on acquisitions. Some of these were small transactions that I will not detail. Here is an account, however, of a few larger purchases whose closings stretched between late 2016 and early 2018. 
+
+Š Clayton Homes acquired two builders of conventional homes during 2017, a move that more than doubled our presence in a field we entered only three years ago. With these additions – Oakwood Homes in Colorado and Harris Doyle in Birmingham – I expect our 2018 site built volume will exceed $1 billion. 
+
+Clayton’s emphasis, nonetheless, remains manufactured homes, both their construction and their financing. In 2017 Clayton sold 19,168 units through its own retail operation and wholesaled another 26,706 units to independent retailers. All told, Clayton accounted for 49% of the manufactured-home market last year. That industry-leading share – about three times what our nearest competitor did – is a far cry from the 13% Clayton achieved in 2003, the year it joined Berkshire. 
+
+Both Clayton Homes and PFJ are based in Knoxville, where the Clayton and Haslam families have long been friends. Kevin Clayton’s comments to the Haslams about the advantages of a Berkshire affiliation, and his admiring comments about the Haslam family to me, helped cement the PFJ deal. 
+
+Š Near the end of 2016, Shaw Industries, our floor coverings business, acquired U.S. Floors (“USF”), a rapidly growing distributor of luxury vinyl tile. USF’s managers, Piet Dossche and Philippe Erramuzpe, came out of the gate fast, delivering a 40% increase in sales in 2017, during which their operation was integrated with Shaw’s. It’s clear that we acquired both great human assets _and_ business assets in making the USF purchase. 
+
+Vance Bell, Shaw’s CEO, originated, negotiated and completed this acquisition, which increased Shaw’s sales to $5.7 billion in 2017 and its employment to 22,000. With the purchase of USF, Shaw has substantially strengthened its position as an important and durable source of earnings for Berkshire. 
+
+Š I have told you several times about HomeServices, our growing real estate brokerage operation. Berkshire backed into this business in 2000 when we acquired a majority interest in MidAmerican Energy (now named Berkshire Hathaway Energy). MidAmerican’s activities were then largely in the electric utility field, and I originally paid little attention to HomeServices. 
+
+5 
+
+But, year-by-year, the company added brokers and, by the end of 2016, HomeServices was the second-largest brokerage operation in the country – still ranking, though, far behind the leader, Realogy. In 2017, however, HomeServices’ growth exploded. We acquired the industry’s third-largest operator, Long and Foster; number 12, Houlihan Lawrence; and Gloria Nilson. 
+
+With those purchases we added 12,300 agents, raising our total to 40,950. HomeServices is now close to leading the country in home sales, having participated (including our three acquisitions pro-forma) in $127 billion of “sides” during 2017. To explain that term, there are two “sides” to every transaction; if we represent both buyer and seller, the dollar value of the transaction is counted twice. 
+
+Despite its recent acquisitions, HomeServices is on track to do only about 3% of the country’s homebrokerage business in 2018. That leaves 97% to go. Given sensible prices, we will keep adding brokers in this most fundamental of businesses. 
+
+Š Finally, Precision Castparts, a company built through acquisitions, bought Wilhelm Schulz GmbH, a German maker of corrosion resistant fittings, piping systems and components. Please allow me to skip a further explanation. I don’t understand manufacturing operations as well as I do the activities of real estate brokers, home builders or truck stops. 
+
+Fortunately, I don’t need in this instance to bring knowledge to the table: Mark Donegan, CEO of Precision, is an extraordinary manufacturing executive, and any business in his domain is slated to do well. Betting on people can sometimes be more certain than betting on physical assets. 
+
+Let’s now move on to operations, beginning with property-casualty (“p/c”) insurance, a business I _do_ understand and the engine that for 51 years has powered Berkshire’s growth. 
+
+## **Insurance** 
+
+Before I discuss our 2017 insurance results, let me remind you of how and why we entered the field. We began by purchasing National Indemnity and a smaller sister company for $8.6 million in early 1967. With our purchase we received $6.7 million of tangible net worth that, by the nature of the insurance business, we were able to deploy in marketable securities. It was easy to rearrange the portfolio into securities we would otherwise have owned at Berkshire itself. In effect, we were “trading dollars” for the net worth portion of the cost. 
+
+The $1.9 million premium over net worth that Berkshire paid brought us an insurance business that usually delivered an underwriting profit. Even more important, the insurance operation carried with it $19.4 million of “float” – money that belonged to others but was held by our two insurers. 
+
+Ever since, float has been of great importance to Berkshire. When we invest these funds, all dividends, interest and gains from their deployment belong to Berkshire. (If we experience investment losses, those, of course, are on our tab as well.) 
+
+Float materializes at p/c insurers in several ways: (1) Premiums are generally paid to the company upfront whereas losses occur over the life of the policy, usually a six-month or one-year period; (2) Though some losses, such as car repairs, are quickly paid, others – such as the harm caused by exposure to asbestos – may take many years to surface and even longer to evaluate and settle; (3) Loss payments are sometimes spread over decades in cases, say, of a person employed by one of our workers’ compensation policyholders being permanently injured and thereafter requiring expensive lifetime care. 
+
+6 
+
+Float generally grows as premium volume increases. Additionally, certain p/c insurers specialize in lines of business such as medical malpractice or product liability – business labeled “long-tail” in industry jargon – that generate far more float than, say, auto collision and homeowner policies, which require insurers to almost immediately make payments to claimants for needed repairs. 
+
+Berkshire has been a leader in long-tail business for many years. In particular, we have specialized in jumbo _reinsurance_ policies that leave us assuming long-tail losses already incurred by other p/c insurers. As a result of our emphasizing that sort of business, Berkshire’s growth in float has been extraordinary. We are now the country’s second largest p/c company measured by premium volume and its leader, by far, in float. 
+
+Here’s the record: 
+
+(in $ millions) 
+
+|Year<br>1970<br>1980<br>1990<br>2000<br>2010<br>2017|Premium Volume<br>Float<br>$ 39<br>$ 39<br>185<br>237<br>582<br>1,632<br>19,343<br>27,871<br>30,749<br>65,832<br>60,597<br>114,500|
+|---|---|
+
+
+
+Our 2017 volume was boosted by a huge deal in which we reinsured up to $20 billion of long-tail losses that AIG had incurred. Our premium for this policy was $10.2 billion, a world’s record and one we won’t come close to repeating. Premium volume will therefore fall somewhat in 2018. 
+
+Float will probably increase slowly for at least a few years. When we eventually experience a decline, it will be modest – at most 3% or so in any single year. Unlike bank deposits or life insurance policies containing surrender options, p/c float can’t be withdrawn. This means that p/c companies can’t experience massive “runs” in times of widespread financial stress, a characteristic of prime importance to Berkshire that we factor into our investment decisions. 
+
+Charlie and I _never_ will operate Berkshire in a manner that depends on the kindness of strangers – or even that of friends who may be facing liquidity problems of their own. During the 2008-2009 crisis, we liked having Treasury Bills – _loads_ of Treasury Bills – that protected us from having to rely on funding sources such as bank lines or commercial paper. We have intentionally constructed Berkshire in a manner that will allow it to comfortably withstand economic discontinuities, including such extremes as extended market closures. 
+
+The downside of float is that it comes with risk, sometimes oceans of risk. What looks predictable in insurance can be anything but. Take the famous Lloyds insurance market, which produced decent results for three centuries. In the 1980’s, though, huge latent problems from a few long-tail lines of insurance surfaced at Lloyds and, for a time, threatened to destroy its storied operation. (It has, I should add, fully recovered.) 
+
+Berkshire’s insurance managers are conservative and careful underwriters, who operate in a culture that has long prioritized those qualities. That disciplined behavior has produced underwriting profits in most years, and in such instances, our cost of float was less than zero. In effect, we got _paid_ then for holding the huge sums tallied in the earlier table. 
+
+I have warned you, however, that we have been fortunate in recent years and that the catastrophe-light period the industry was experiencing was not a new norm. Last September drove home that point, as three significant hurricanes hit Texas, Florida and Puerto Rico. 
+
+7 
+
+My guess at this time is that the insured losses arising from the hurricanes are $100 billion or so. That figure, however, could be _far_ off the mark. The pattern with most mega-catastrophes has been that initial loss estimates ran low. As well-known analyst V.J. Dowling has pointed out, the loss reserves of an insurer are similar to a self-graded exam. Ignorance, wishful thinking or, occasionally, downright fraud can deliver inaccurate figures about an insurer’s financial condition for a very long time. 
+
+We currently estimate Berkshire’s losses from the three hurricanes to be $3 billion (or about $2 billion after tax). If both that estimate and my industry estimate of $100 billion are close to accurate, our share of the industry loss was about 3%. I believe that percentage is also what we may reasonably expect to be our share of losses in future American mega-cats. 
+
+It’s worth noting that the $2 billion net cost from the three hurricanes reduced Berkshire’s GAAP net worth by less than 1%. Elsewhere in the reinsurance industry there were many companies that suffered losses in net worth ranging from 7% to more than 15%. The damage to them could have been _far_ worse: Had Hurricane Irma followed a path through Florida only a bit to the east, insured losses might well have been an additional $100 billion. 
+
+We believe that the annual probability of a U.S. mega-catastrophe causing $400 billion or more of insured losses is about 2%. No one, of course, knows the correct probability. We do know, however, that the risk increases over time because of growth in both the number and value of structures located in catastrophe-vulnerable areas. 
+
+No company comes close to Berkshire in being financially prepared for a $400 billion mega-cat. Our share of such a loss might be $12 billion or so, an amount far below the annual earnings we expect from our non-insurance activities. Concurrently, much – indeed, perhaps most – of the p/c world would be out of business. Our unparalleled financial strength explains why other p/c insurers come to Berkshire – and _only_ Berkshire – when they, themselves, need to purchase huge reinsurance coverages for large payments they may have to make in the far future. 
+
+Prior to 2017, Berkshire had recorded 14 consecutive years of underwriting profits, which totaled $28.3 billion pre-tax. I have regularly told you that I expect Berkshire to attain an underwriting profit in a majority of years, but also to experience losses from time to time. My warning became fact in 2017, as we lost $3.2 billion pre-tax from underwriting. 
+
+A large amount of additional information about our various insurance operations is included in the 10-K at the back of this report. The only point I will add here is that you have some extraordinary managers working for you at our various p/c operations. This is a business in which there are no trade secrets, patents, or locational advantages. What counts are brains and capital. The managers of our various insurance companies supply the brains and Berkshire provides the capital. 
+
+## 
+
+For many years, this letter has described the activities of Berkshire’s many other businesses. That discussion has become both repetitious and partially duplicative of information regularly included in the 10-K that follows the letter. Consequently, this year I will give you a simple summary of our dozens of non-insurance businesses. Additional details can be found on pages K-5 – K-22 and pages K-40 – K-50. 
+
+Viewed as a group – _and excluding investment income_ – our operations other than insurance delivered pretax income of $20 billion in 2017, an increase of $950 million over 2016. About 44% of the 2017 profit came from two subsidiaries. BNSF, our railroad, and Berkshire Hathaway Energy (of which we own 90.2%). You can read more about these businesses on pages K-5 – K-10 and pages K-40 – K-44. 
+
+Proceeding down Berkshire’s long list of subsidiaries, our next five non-insurance businesses, as ranked by earnings (but presented here alphabetically) Clayton Homes, International Metalworking Companies, Lubrizol, Marmon and Precision Castparts had aggregate pre-tax income in 2017 of $5.5 billion, little changed from the $5.4 billion these companies earned in 2016. 
+
+The next five, similarly ranked and listed (Forest River, Johns Manville, MiTek, Shaw and TTI) earned $2.1 billion last year, up from $1.7 billion in 2016. 
+
+8 
+
+The remaining businesses that Berkshire owns – and there are many – recorded little change in pre-tax income, which was $3.7 billion in 2017 versus $3.5 billion in 2016. 
+
+Depreciation charges for all of these non-insurance operations totaled $7.6 billion; capital expenditures were $11.5 billion. Berkshire is always looking for ways to expand its businesses and regularly incurs capital expenditures that far exceed its depreciation charge. Almost 90% of our investments are made in the United States. America’s economic soil remains fertile. 
+
+Amortization charges were an additional $1.3 billion. I believe that in large part this item is not a true economic cost. Partially offsetting this good news is the fact that BNSF (like all other railroads) records depreciation charges that fall well short of the sums regularly needed to keep the railroad in first-class shape. 
+
+Berkshire’s goal is to substantially increase the earnings of its non-insurance group. For that to happen, we will need to make one or more huge acquisitions. We certainly have the resources to do so. At yearend Berkshire held $116.0 billion in cash and U.S. Treasury Bills (whose average maturity was 88 days), up from $86.4 billion at yearend 2016. This extraordinary liquidity earns only a pittance and is far beyond the level Charlie and I wish Berkshire to have. Our smiles will broaden when we have redeployed Berkshire’s excess funds into more productive assets. 
+
+## **Investments** 
+
+Below we list our fifteen common stock investments that at yearend had the largest market value. We exclude our Kraft Heinz holding – 325,442,152 shares – because Berkshire is part of a control group and therefore must account for this investment on the “equity” method. On its balance sheet, Berkshire carries its Kraft Heinz holding at a GAAP figure of $17.6 billion. The shares had a yearend market value of $25.3 billion, and a cost basis of $9.8 billion. 
+
+|_Shares*_<br>_Company_<br>151,610,700<br>American Express Company . . . . . . . . . . . . . . . . . .<br>166,713,209<br>Apple Inc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>700,000,000<br>Bank of America Corporation . . . . . . . . . . . . . . . . .<br>53,307,534<br>The Bank of New York Mellon Corporation . . . . . .<br>225,000,000<br>BYD Company Ltd. . . . . . . . . . . . . . . . . . . . . . . . . .<br>6,789,054<br>Charter Communications, Inc. . . . . . . . . . . . . . . . . .<br>400,000,000<br>The Coca-Cola Company . . . . . . . . . . . . . . . . . . . . .<br>53,110,395<br>Delta Airlines Inc. . . . . . . . . . . . . . . . . . . . . . . . . . .<br>44,527,147<br>General Motors Company . . . . . . . . . . . . . . . . . . . .<br>11,390,582<br>The Goldman Sachs Group, Inc. . . . . . . . . . . . . . . .<br>24,669,778<br>Moody’s Corporation . . . . . . . . . . . . . . . . . . . . . . . .<br>74,587,892<br>Phillips 66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>47,659,456<br>Southwest Airlines Co. . . . . . . . . . . . . . . . . . . . . . . .<br>103,855,045<br>U.S. Bancorp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>482,544,468<br>Wells Fargo & Company . . . . . . . . . . . . . . . . . . . . .<br>Others . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>Total Common Stocks Carried at Market . . . . . . . . .|_Percentage of_<br>_Company_<br>_Owned_<br>17.6<br>3.3<br>6.8<br>5.3<br>8.2<br>2.8<br>9.4<br>7.4<br>3.2<br>3.0<br>12.9<br>14.9<br>8.1<br>6.3<br>9.9|_12/31/17_<br>_Cost**_<br>_Market_<br>_(in millions)_<br>$ 1,287<br>$ 15,056<br>20,961<br>28,213<br>5,007<br>20,664<br>2,230<br>2,871<br>232<br>1,961<br>1,210<br>2,281<br>1,299<br>18,352<br>2,219<br>2,974<br>1,343<br>1,825<br>654<br>2,902<br>248<br>3,642<br>5,841<br>7,545<br>1,997<br>3,119<br>3,343<br>5,565<br>11,837<br>29,276<br>14,968<br>24,294<br>$ 74,676<br>$ 170,540|_12/31/17_<br>_Cost**_<br>_Market_<br>_(in millions)_<br>$ 1,287<br>$ 15,056<br>20,961<br>28,213<br>5,007<br>20,664<br>2,230<br>2,871<br>232<br>1,961<br>1,210<br>2,281<br>1,299<br>18,352<br>2,219<br>2,974<br>1,343<br>1,825<br>654<br>2,902<br>248<br>3,642<br>5,841<br>7,545<br>1,997<br>3,119<br>3,343<br>5,565<br>11,837<br>29,276<br>14,968<br>24,294<br>$ 74,676<br>$ 170,540|
+|---|---|---|---|
+||||$ 170,540|
+
+
+
+* Excludes shares held by pension funds of Berkshire subsidiaries. 
+
+** This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of write-downs that have been required under GAAP rules. 
+
+9 
+
+Some of the stocks in the table are the responsibility of either Todd Combs or Ted Weschler, who work with me in managing Berkshire’s investments. Each, _independently of me_ , manages more than $12 billion; I usually learn about decisions they have made by looking at monthly portfolio summaries. Included in the $25 billion that the two manage is more than $8 billion of pension trust assets of certain Berkshire subsidiaries. As noted, pension investments are not included in the preceding tabulation of Berkshire holdings. 
+
+## 
+
+Charlie and I view the marketable common stocks that Berkshire owns as interests in _businesses_ , not as ticker symbols to be bought or sold based on their “chart” patterns, the “target” prices of analysts or the opinions of media pundits. Instead, we simply believe that if the businesses of the investees are successful (as we believe most will be) our investments will be successful as well. Sometimes the payoffs to us will be modest; occasionally the cash register will ring loudly. And sometimes I will make expensive mistakes. Overall – and over time – we should get decent results. In America, equity investors have the wind at their back. 
+
+From our stock portfolio – call our holdings “minority interests” in a diversified group of publicly-owned businesses – Berkshire received $3.7 billion of dividends in 2017. That’s the number included in our GAAP figures, as well as in the “operating earnings” we reference in our quarterly and annual reports. 
+
+That dividend figure, however, _far_ understates the “true” earnings emanating from our stock holdings. For decades, we have stated in Principle 6 of our “Owner-Related Business Principles” (page 19) that we expect _undistributed_ earnings of our investees to deliver us at least equivalent earnings by way of subsequent capital gains. 
+
+Our recognition of capital gains (and losses) will be lumpy, particularly as we conform with the new GAAP rule requiring us to constantly record _unrealized_ gains or losses in our earnings. I feel confident, however, that the earnings retained by our investees will over time, and with our investees viewed as a group, translate into commensurate capital gains for Berkshire. 
+
+The connection of value-building to retained earnings that I’ve just described will be impossible to detect in the short term. Stocks surge and swoon, seemingly untethered to any year-to-year buildup in their underlying value. Over time, however, Ben Graham’s oft-quoted maxim proves true: “In the short run, the market is a voting machine; in the long run, however, it becomes a weighing machine.” 
+
+**==> picture [88 x 8] intentionally omitted <==**
+
+Berkshire, itself, provides some vivid examples of how price randomness in the short term can obscure longterm growth in value. For the last 53 years, the company has built value by reinvesting its earnings and letting compound interest work its magic. Year by year, we have moved forward. Yet Berkshire shares have suffered four truly major dips. Here are the gory details: 
+
+|Period<br>High<br>Low<br>March 1973-January 1975<br>93<br>38<br>10/2/87-10/27/87<br>4,250<br>2,675<br>6/19/98-3/10/2000<br>80,900<br>41,300<br>9/19/08-3/5/09<br>147,000<br>72,400|Percentage Decrease|
+|---|---|
+||(59.1%)<br>(37.1%)<br>(48.9%)<br>(50.7%)|
+
+
+
+This table offers the strongest argument I can muster against ever using borrowed money to own stocks. There is simply no telling how far stocks can fall in a short period. Even if your borrowings are small and your positions aren’t immediately threatened by the plunging market, your mind may well become rattled by scary headlines and breathless commentary. And an unsettled mind will not make good decisions. 
+
+10 
+
+In the next 53 years our shares (and others) will experience declines resembling those in the table. _No one_ can tell you when these will happen. The light can at _any time_ go from green to red without pausing at yellow. 
+
+When major declines occur, however, they offer extraordinary opportunities to those who are not handicapped by debt. That’s the time to heed these lines from Kipling’s _If_ : 
+
+“If you can keep your head when all about you are losing theirs . . . If you can wait and not be tired by waiting . . . If you can think – and not make thoughts your aim . . . If you can trust yourself when all men doubt you . . . Yours is the Earth and everything that’s in it.” 
+
+## **“The Bet” is Over and Has Delivered an Unforeseen Investment Lesson** 
+
+Last year, at the 90% mark, I gave you a detailed report on a ten-year bet I had made on December 19, 2007. (The full discussion from last year’s annual report is reprinted on pages 24 – 26.) Now I have the final tally – and, in several respects, it’s an eye-opener. 
+
+I made the bet for two reasons: (1) to leverage my outlay of $318,250 into a disproportionately larger sum that – if things turned out as I expected – would be distributed in early 2018 to Girls Inc. of Omaha; and (2) to publicize my conviction that my pick – a virtually cost-free investment in an unmanaged S&P 500 index fund – would, over time, deliver better results than those achieved by most investment professionals, however well-regarded and incentivized those “helpers” may be. 
+
+Addressing this question is of enormous importance. American investors pay staggering sums annually to advisors, often incurring several layers of consequential costs. In the aggregate, do these investors get their money’s worth? Indeed, again in the aggregate, do investors get _anything_ for their outlays? 
+
+Protégé Partners, my counterparty to the bet, picked five “funds-of-funds” that it expected to overperform the S&P 500. That was _not_ a small sample. Those five funds-of-funds in turn owned interests in more than 200 hedge funds. 
+
+Essentially, Protégé, an advisory firm that knew its way around Wall Street, selected five investment experts who, in turn, employed several hundred other investment experts, each managing his or her own hedge fund. This assemblage was an elite crew, loaded with brains, adrenaline and confidence. 
+
+The managers of the five funds-of-funds possessed a further advantage: They could – and did – rearrange their portfolios of hedge funds during the ten years, investing with new “stars” while exiting their positions in hedge funds whose managers had lost their touch. 
+
+Every actor on Protégé’s side was highly incentivized: Both the fund-of-funds managers and the hedge-fund managers they selected significantly shared in gains, even those achieved simply because the market generally moves upwards. (In _100%_ of the 43 ten-year periods since we took control of Berkshire, years with gains by the S&P 500 exceeded loss years.) 
+
+Those performance incentives, it should be emphasized, were frosting on a huge and tasty cake: Even if the funds _lost_ money for their investors during the decade, their managers could grow very rich. That would occur because _fixed_ fees averaging a staggering 2[1] ⁄2% of assets or so were paid _every year_ by the fund-of-funds’ investors, with part of these fees going to the managers at the five funds-of-funds and the balance going to the 200-plus managers of the underlying hedge funds. 
+
+11 
+
+## Here’s the final scorecard for the bet: 
+
+|Year<br>2008<br>2009<br>2010<br>2011<br>2012<br>2013<br>2014<br>2015<br>2016<br>2017<br>Final Gain<br>Average<br>Annual Gain|Fund-of-<br>Funds A<br>-16.5%<br>11.3%<br>5.9%<br>-6.3%<br>3.4%<br>10.5%<br>4.7%<br>1.6%<br>-3.2%<br>12.2%<br>21.7%<br>2.0%|Fund-of-<br>Funds B<br>-22.3%<br>14.5%<br>6.8%<br>-1.3%<br>9.6%<br>15.2%<br>4.0%<br>2.5%<br>1.9%<br>10.6%<br>42.3%<br>3.6%|Fund-of-<br>Funds C<br>-21.3%<br>21.4%<br>13.3%<br>5.9%<br>5.7%<br>8.8%<br>18.9%<br>5.4%<br>-1.7%<br>15.6%<br>87.7%<br>6.5%|Fund-of-<br>Funds D<br>-29.3%<br>16.5%<br>4.9%<br>-6.3%<br>6.2%<br>14.2%<br>0.7%<br>1.4%<br>2.5%<br>N/A<br>2.8%<br>0.3%|Fund-of-<br>Funds E<br>-30.1%<br>16.8%<br>11.9%<br>-2.8%<br>9.1%<br>14.4%<br>-2.1%<br>-5.0%<br>4.4%<br>18.0%<br>27.0%<br>2.4%|S&P<br>Index Fund|
+|---|---|---|---|---|---|---|
+|||||||-37.0%<br>26.6%<br>15.1%<br>2.1%<br>16.0%<br>32.3%<br>13.6%<br>1.4%<br>11.9%<br>21.8%<br>125.8%<br>8.5%|
+
+
+
+Footnote: Under my agreement with Protégé Partners, the names of these funds-of-funds have never been publicly disclosed. I, however, have received their annual audits from Protégé. The 2016 figures for funds A, B and C were revised slightly from those originally reported last year. Fund D was liquidated in 2017; its average annual gain is calculated for the nine years of its operation. 
+
+The five funds-of-funds got off to a fast start, each beating the index fund in 2008. Then the roof fell in. In _every one_ of the nine years that followed, the funds-of-funds as a whole trailed the index fund. 
+
+Let me emphasize that there was nothing aberrational about stock-market behavior over the ten-year stretch. If a poll of investment “experts” had been asked late in 2007 for a forecast of long-term common-stock returns, their guesses would have likely averaged close to the 8.5% actually delivered by the S&P 500. Making money in that environment should have been easy. Indeed, Wall Street “helpers” earned staggering sums. While this group prospered, however, many of their investors experienced a lost decade. 
+
+Performance comes, performance goes. Fees never falter. 
+
+**==> picture [88 x 5] intentionally omitted <==**
+
+The bet illuminated another important investment lesson: Though markets are generally rational, they occasionally do crazy things. Seizing the opportunities then offered does _not_ require great intelligence, a degree in economics or a familiarity with Wall Street jargon such as alpha and beta. What investors then need instead is an ability to both disregard mob fears or enthusiasms and to focus on a few simple fundamentals. A willingness to look unimaginative for a sustained period – or even to look foolish – is also essential. 
+
+Originally, Protégé and I each funded our portion of the ultimate $1 million prize by purchasing $500,000 face amount of zero-coupon U.S. Treasury bonds (sometimes called “strips”). These bonds cost each of us $318,250 – a bit less than 64¢ on the dollar – with the $500,000 payable in ten years. 
+
+As the name implies, the bonds we acquired paid no interest, but (because of the discount at which they were purchased) delivered a 4.56% annual return if held to maturity. Protégé and I originally intended to do no more than tally the annual returns and distribute $1 million to the winning charity when the bonds matured late in 2017. 
+
+12 
+
+After our purchase, however, some very strange things took place in the bond market. By November 2012, our bonds – now with about five years to go before they matured – were selling for _95.7%_ of their face value. At _that_ price, their annual yield to maturity was less than 1%. Or, to be precise, _.88%_ . 
+
+Given that pathetic return, our bonds had become a dumb – a _really_ dumb – investment compared to American equities. Over time, the S&P 500 – which mirrors a huge cross-section of American business, appropriately weighted by market value – has earned _far_ more than 10% annually on shareholders’ equity (net worth). 
+
+In November 2012, as we were considering all this, the _cash_ return from dividends on the S&P 500 was 2[1] ⁄2% annually, about triple the yield on our U.S. Treasury bond. These dividend payments were almost certain to grow. Beyond that, huge sums were being retained by the companies comprising the 500. These businesses would use their retained earnings to expand their operations and, frequently, to repurchase their shares as well. Either course would, over time, substantially increase earnings-per-share. And – as has been the case since 1776 – whatever its problems of the minute, the American economy was going to move forward. 
+
+Presented late in 2012 with the extraordinary valuation mismatch between bonds and equities, Protégé and I agreed to sell the bonds we had bought five years earlier and use the proceeds to buy 11,200 Berkshire “B” shares. The result: Girls Inc. of Omaha found itself receiving $2,222,279 last month rather than the $1 million it had originally hoped for. 
+
+Berkshire, it should be emphasized, has not performed brilliantly since the 2012 substitution. But brilliance wasn’t needed: After all, Berkshire’s gain only had to beat that annual .88% bond bogey – hardly a Herculean achievement. 
+
+The only risk in the bonds-to-Berkshire switch was that yearend 2017 would coincide with an exceptionally weak stock market. Protégé and I felt this possibility (which _always_ exists) was very low. Two factors dictated this conclusion: The reasonable price of Berkshire in late 2012, and the large asset build-up that was almost certain to occur at Berkshire during the five years that remained before the bet would be settled. Even so, to eliminate _all_ risk to the charities from the switch, I agreed to make up any shortfall if sales of the 11,200 Berkshire shares at yearend 2017 didn’t produce at least $1 million. 
+
+## 
+
+Investing is an activity in which consumption today is foregone in an attempt to allow greater consumption at a later date. “Risk” is the possibility that this objective won’t be attained. 
+
+By that standard, purportedly “risk-free” long-term bonds in 2012 were a _far_ riskier investment than a longterm investment in common stocks. At that time, even a 1% annual rate of inflation between 2012 and 2017 would have decreased the purchasing-power of the government bond that Protégé and I sold. 
+
+I want to quickly acknowledge that in _any_ upcoming day, week or even year, stocks will be riskier – far riskier – than short-term U.S. bonds. As an investor’s investment horizon lengthens, however, a diversified portfolio of U.S. equities becomes progressively _less_ risky than bonds, assuming that the stocks are purchased at a sensible multiple of earnings relative to then-prevailing interest rates. 
+
+It is a terrible mistake for investors with long-term horizons – among them, pension funds, college endowments and savings-minded individuals – to measure their investment “risk” by their portfolio’s ratio of bonds to stocks. Often, high-grade bonds in an investment portfolio _increase_ its risk. 
+
+A final lesson from our bet: Stick with big, “easy” decisions and eschew activity. During the ten-year bet, the 200-plus hedge-fund managers that were involved almost certainly made tens of thousands of buy and sell decisions. Most of those managers undoubtedly thought hard about their decisions, each of which they believed would prove advantageous. In the process of investing, they studied 10-Ks, interviewed managements, read trade journals and conferred with Wall Street analysts. 
+
+13 
+
+Protégé and I, meanwhile, leaning neither on research, insights nor brilliance, made only one investment decision during the ten years. We simply decided to sell our bond investment at a price of more than 100 times earnings (95.7 sale price/.88 yield), those being “earnings” that could not increase during the ensuing five years. 
+
+We made the sale in order to move our money into a single security – Berkshire – that, in turn, owned a diversified group of solid businesses. Fueled by retained earnings, Berkshire’s growth in value was unlikely to be less than 8% annually, even if we were to experience a so-so economy. 
+
+After that kindergarten-like analysis, Protégé and I made the switch and relaxed, confident that, over time, 8% was certain to beat .88%. By a lot. 
+
+## **The Annual Meeting** 
+
+The annual meeting falls on May 5[th] and will again be webcast by Yahoo!, whose web address is https://finance.yahoo.com/brklivestream. The webcast will go live at 8:45 a.m. Central Daylight Time. Yahoo! will interview directors, managers, stockholders and celebrities before the meeting and during the lunch break. Both the interviews and meeting will be translated simultaneously into Mandarin. 
+
+Our partnership with Yahoo! began in 2016 and shareholders have responded enthusiastically. Last year, real-time viewership increased 72% to about 3.1 million and replays of short segments totaled 17.1 million. 
+
+For those attending the meeting in person, the doors at the CenturyLink will open at 7:00 a.m. on Saturday to facilitate shopping prior to our shareholder movie, which begins at 8:30. The question-and-answer period will start at 9:15 and run until 3:30, with a one-hour lunch break at noon. Finally, at 3:45 we will begin the formal shareholder meeting, which usually runs from 15 to 45 minutes. Shopping will end at 4:30. 
+
+On Friday, May 4[th] , our Berkshire exhibitors at CenturyLink will be open from noon until 5 p.m. We added that extra shopping time in 2015, and serious shoppers love it. Last year about 12,000 people came through the doors in the five hours we were open on Friday. 
+
+Your venue for shopping will be the 194,300-square-foot hall that adjoins the meeting and in which products from dozens of our subsidiaries will be _for sale_ . (Your Chairman discourages freebies.) Say hello to the many Berkshire managers who will be captaining their exhibits. And be sure to view the terrific BNSF railroad layout that salutes all of our companies. 
+
+Brooks, our running-shoe company, will again have a special commemorative shoe to offer at the meeting. After you purchase a pair, wear them on Sunday at our sixth annual “Berkshire 5K,” an 8 a.m. race starting at the CenturyLink. Full details for participating will be included in the Visitor’s Guide that will be sent to you with your meeting credentials. Entrants in the race will find themselves running alongside many of Berkshire’s managers, directors and associates. (Charlie and I, however, will sleep in; even with Brooks running shoes, our times would be embarrassing.) Participation in the 5K grows every year. Help us set another record. 
+
+A GEICO booth in the shopping area will be staffed by a number of the company’s top counselors from around the country. At last year’s meeting, we set a record for policy sales, up 43% from 2016. 
+
+So stop by for a quote. In most cases, GEICO will be able to give you a shareholder discount (usually 8%). This special offer is permitted by 44 of the 51 jurisdictions in which we operate. (One supplemental point: The discount is not additive if you qualify for another discount, such as that available to certain groups.) Bring the details of your existing insurance and check out our price. We can save many of you real money. Spend the savings on other Berkshire products. 
+
+Be sure to visit the Bookworm. This Omaha-based retailer will carry more than 40 books and DVDs, among them a couple of new titles. Berkshire shareholders are a bookseller’s dream: When _Poor Charlie’s Almanack_ (yes, _our_ Charlie) made its debut some years ago, we sold 3,500 copies at the meeting. The book weighed 4.85 pounds. Do the math: Our shareholders left the building that day carrying about 8[1] ⁄2 tons of Charlie’s wisdom. 
+
+14 
+
+An attachment to the proxy material that is enclosed with this report explains how you can obtain the credential you will need for admission to both the meeting and other events. Keep in mind that most airlines substantially increase prices for the Berkshire weekend. If you are coming from far away, compare the cost of flying to Kansas City vs. Omaha. The drive between the two cities is about 2[1] ⁄2 hours, and it may be that Kansas City can save you significant money. The savings for a couple could run to $1,000 or more. Spend that money with us. 
+
+At Nebraska Furniture Mart, located on a 77-acre site on 72[nd] Street between Dodge and Pacific, we will again be having “Berkshire Weekend” discount pricing. To obtain the Berkshire discount at NFM, you must make your purchases between Tuesday, May 1[st] and Monday, May 7[th] inclusive, and must also present your meeting credential. Last year, the one-week volume for the store was a staggering $44.6 million. Bricks and mortar are alive and well at NFM. 
+
+The period’s special pricing will even apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting but which, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. During “Berkshire Weekend,” NFM will be open from 10 a.m. to 9 p.m. Monday through Saturday and 11 a.m. to 8 p.m. on Sunday. From 5:30 p.m. to 8 p.m. on Saturday, NFM is hosting a picnic to which you are all invited. 
+
+NFM will again extend its shareholder’s discount offerings to our Kansas City and Dallas stores. From May 1[st] through May 7[th] , shareholders who present meeting credentials or other evidence of their Berkshire ownership (such as brokerage statements) to those NFM stores will receive the same discounts enjoyed by those visiting the Omaha store. 
+
+At Borsheims, we will again have two shareholder-only events. The first will be a cocktail reception from 6 p.m. to 9 p.m. on Friday, May 4[th] . The second, the main gala, will be held on Sunday, May 6[th] , from 9 a.m. to 4 p.m. On Saturday, we will remain open until 6 p.m. Remember, the more you buy, the more you save (or so my daughter tells me when we visit the store). 
+
+We will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore, shareholder prices will be available from Monday, April 30[th] through Saturday, May 12[th] . During that period, please identify yourself as a shareholder either by presenting your meeting credential or a brokerage statement showing you own our stock. 
+
+On Sunday afternoon, on the upper level above Borsheims, we will have Bob Hamman and Sharon Osberg, two of the world’s top bridge experts, available to play with our shareholders. If they suggest wagering on the game, change the subject. Ajit, Charlie, Bill Gates and I will likely drop by as well. 
+
+My friend, Ariel Hsing, will be in the mall as well on Sunday, taking on challengers at table tennis. I met Ariel when she was nine, and even then I was unable to score a point against her. Ariel represented the United States in the 2012 Olympics. If you don’t mind embarrassing yourself, test your skills against her, beginning at 1 p.m. Bill Gates did pretty well playing Ariel last year, so he may be ready to again challenge her. (My advice: Bet on Ariel.) I will participate on an advisory basis only. 
+
+Gorat’s will be open exclusively for Berkshire shareholders on Sunday, May 6[th] , serving from 12 p.m. until 10 p.m. To make a reservation at Gorat’s, call 402-551-3733 on April 2[nd] ( _but not before_ ). Show you are a sophisticated diner by ordering the T-bone with hash browns. 
+
+We will have the same three financial journalists lead the question-and-answer period at the meeting, asking Charlie and me questions that shareholders have submitted to them by e-mail. The journalists and their e-mail addresses are: Carol Loomis, the preeminent business journalist of her time, who may be e-mailed at loomisbrk@gmail.com; Becky Quick, of CNBC, at BerkshireQuestions@cnbc.com; and Andrew Ross Sorkin, of the New York Times, at arsorkin@nytimes.com. 
+
+15 
+
+From the questions submitted, each journalist will choose the six he or she decides are the most interesting and important to shareholders. The journalists have told me your question has the best chance of being selected if you keep it concise, avoid sending it in at the last moment, make it Berkshire-related and include no more than two questions in any e-mail you send them. (In your e-mail, let the journalist know if you would like your name mentioned if your question is asked.) 
+
+An accompanying set of questions will be asked by three analysts who follow Berkshire. This year the insurance specialist will be Gary Ransom of Dowling & Partners. Questions that deal with our non-insurance operations will come from Jonathan Brandt of Ruane, Cunniff & Goldfarb and Gregg Warren of Morningstar. Since what we will be conducting is a _shareholders’_ meeting, our hope is that the analysts and journalists will ask questions that add to our owners’ understanding and knowledge of their investment. 
+
+Neither Charlie nor I will get so much as a clue about the questions headed our way. Some will be tough, for sure, and that’s the way we like it. Multi-part questions aren’t allowed; we want to give as many questioners as possible a shot at us. Our goal is for you to leave the meeting knowing more about Berkshire than when you came and for you to have a good time while in Omaha. 
+
+All told, we expect at least 54 questions, which will allow for six from each analyst and journalist and for 18 from the audience. After the 54[th] , all questions come from the audience. Charlie and I have often tackled more than 60 by 3:30. 
+
+The questioners from the audience will be chosen by means of 11 drawings that will take place at 8:15 a.m. on the morning of the annual meeting. Each of the 11 microphones installed in the arena and main overflow room will host, so to speak, a drawing. 
+
+While I’m on the subject of our owners’ gaining knowledge, let me remind you that Charlie and I believe all shareholders should simultaneously have access to new information that Berkshire releases and, if possible, should also have adequate time to digest and analyze that information before any trading takes place. That’s why we try to issue financial data late on Fridays or early on Saturdays and why our annual meeting is always held on a Saturday (a day that also eases traffic and parking problems). 
+
+We do not follow the common practice of talking one-on-one with large institutional investors or analysts, treating them instead as we do all other shareholders. There is no one more important to us than the shareholder of limited means who trusts us with a substantial portion of his or her savings. As I run the company day-to-day – and as I write this letter – that is the shareholder whose image is in my mind. 
+
+## 
+
+For good reason, I regularly extol the accomplishments of our operating managers. They are truly All-Stars who run their businesses as if they were the only asset owned by their families. I also believe the mindset of our managers to be as shareholder-oriented as can be found in the universe of large publicly-owned companies. Most of our managers have no financial need to work. The joy of hitting business “home runs” means as much to them as their paycheck. 
+
+If managers (or directors) own Berkshire shares – and many do – it’s from open-market purchases they have made or because they received shares when they sold their businesses to us. _None_ , however, gets the upside of ownership without risking the downside. Our directors and managers stand in your shoes. 
+
+We continue to have a wonderful group at headquarters. This team efficiently deals with a multitude of SEC and other regulatory requirements, files a 32,700-page Federal income tax return, oversees the filing of 3,935 state tax returns, responds to countless shareholder and media inquiries, gets out the annual report, prepares for the country’s largest annual meeting, coordinates the Board’s activities, fact-checks this letter – and the list goes on and on. 
+
+16 
+
+They handle all of these business tasks cheerfully and with unbelievable efficiency, making my life easy and pleasant. Their efforts go beyond activities strictly related to Berkshire: Last year, for example, they dealt with the 40 universities (selected from 200 applicants) who sent students to Omaha for a Q&A day with me. They also handle all kinds of requests that I receive, arrange my travel, and even get me hamburgers and French fries (smothered in Heinz ketchup, of course) for lunch. In addition, they cheerfully pitch in to help at the annual meeting in whatever way they are needed. They are proud to work for Berkshire, and I am proud of them. 
+
+I’ve saved the best for last. Early in 2018, Berkshire’s board elected Ajit Jain and Greg Abel as directors of Berkshire and also designated each as Vice Chairman. Ajit is now responsible for insurance operations, and Greg oversees the rest of our businesses. Charlie and I will focus on investments and capital allocation. 
+
+You and I are lucky to have Ajit and Greg working for us. Each has been with Berkshire for decades, and Berkshire’s blood flows through their veins. The character of each man matches his talents. And that says it all. 
+
+Come to Omaha – the cradle of capitalism – on May 5[th] and meet the Berkshire Bunch. All of us look forward to your visit. 
+
+February 24, 2018 
+
+Warren E. Buffett Chairman of the Board 
+
+17 
+
